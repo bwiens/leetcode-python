@@ -7,12 +7,6 @@
 nums = [2, 7, 11, 15]
 target = 9
 
-#print("the range of nums is: ")
-#print range(len(nums))
-#print("the length of nums is: ")
-#print len(nums)
-
-
 class Solution:
     def twoSum(self, nums, target):
         """
@@ -36,4 +30,3 @@ class Solution:
 
 print(Solution().twoSum(nums, target))
 #two for loops indicate O(n^2) time
-
