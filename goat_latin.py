@@ -37,6 +37,8 @@ class Solution():
             #append an per index (rule3)
             item = item + ('a' * (1 + id))
             s[id] = item
+        #convert list back to string
+        s = ' '.join(s)
         return s
 
 print(Solution().toGoatLatin(sentence))
