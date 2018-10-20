@@ -6,7 +6,7 @@ x = 1
 y = 4
 
 class Solution():
-    def hammingDisatance(self, x, y):
+    def hammingDistance(self, x, y):
         """
         :type: x int
         :type: y int
@@ -22,4 +22,4 @@ class Solution():
                 c += 1
         return c
 
-print(Solution().hammingDisatance(x, y))
+print(Solution().hammingDistance(x, y))
