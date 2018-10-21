@@ -7,5 +7,6 @@
 - Bubble Sort
 - Goat Latin
 - Hamming Distance
+- Binary Gap
 
 *The assignments require the use of a Solution class.*
