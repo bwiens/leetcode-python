@@ -9,5 +9,6 @@
 - Hamming Distance
 - Binary Gap
 - Wiggle Sort II
+- Encode and Decode TinyURL
 
 *The assignments require the use of a Solution class.*
