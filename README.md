@@ -16,6 +16,6 @@ Medium:
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
-
+- LRU Cache (https://leetcode.com/problems/lru-cache/)
 
 *The assignments require the use of a Solution class.*
