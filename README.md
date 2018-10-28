@@ -13,7 +13,7 @@ Easy:
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
-- Bubble Sort (Wikipedia Description)
+- Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
