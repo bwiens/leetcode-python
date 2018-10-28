@@ -9,6 +9,7 @@ Easy:
 - Hamming Distance (https://leetcode.com/problems/hamming-distance/)
 - Binary Gap (https://leetcode.com/problems/binary-gap/description/) 
 - Wiggle Sort II (https://leetcode.com/problems/wiggle-sort-ii/description/)
+- Min Stack (https://leetcode.com/problems/min-stack/description/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
