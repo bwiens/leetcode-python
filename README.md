@@ -10,7 +10,7 @@ Easy:
 - Binary Gap (https://leetcode.com/problems/binary-gap/description/) 
 - Wiggle Sort II (https://leetcode.com/problems/wiggle-sort-ii/description/)
 - Min Stack (https://leetcode.com/problems/min-stack/description/)
-- Binary Search (https://leetcode.com/problems/min-stack/description/)
+- Binary Search (https://leetcode.com/problems/min-stack/description/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
@@ -20,5 +20,6 @@ Medium:
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
+- Longest Substring with At Most K Distinct Characters (https://leetfree.com/problems/longest-substring-with-at-most-k-distinct-characters.html)
 
 *The assignments require the use of a Solution class.*
