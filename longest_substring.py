@@ -18,9 +18,12 @@ def longestsub(string,chars):
     maximum = ""
     for i in string:
        s += i
+       #count distinct characters
        if (len(set(s))) <= k:
+                #if criteria is met store longest substring
                 if len(s) > len(maximum):
                     maximum = s
+       #remove first letter if too many distinct characters
        if (len(set(s))) > k:
            s = s[1:]
     return maximum
