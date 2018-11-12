@@ -6,7 +6,6 @@
 
 import itertools
 time = "23:59"
-numbersonly = []
 def nextEarliest(string):
     string = list(string)
     #remove colon
