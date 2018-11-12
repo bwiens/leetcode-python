@@ -16,6 +16,7 @@ Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
 - Meeting Rooms II (https://leetfree.com/problems/meeting-rooms-ii.html)
+- Next Closest Time (https://leetfree.com/problems/next-closest-time.html)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
