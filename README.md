@@ -17,6 +17,7 @@ Medium:
 - Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
 - Meeting Rooms II (https://leetfree.com/problems/meeting-rooms-ii.html)
 - Next Closest Time (https://leetfree.com/problems/next-closest-time.html)
+- Replace Words (https://leetcode.com/problems/replace-words/description/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
