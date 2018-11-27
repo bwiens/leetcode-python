@@ -9,7 +9,6 @@
 #   For example, the first word gets "a" added to the end, the second word gets "aa" added to the end and so on.
 
 sentence = "I speak Goat Latin"
-vowels = ["a", "e", "i", "o", "u"]
 
 class Solution():
     def toGoatLatin(self, s):
@@ -18,6 +17,7 @@ class Solution():
         :rtype: str
         """
         #split into list
+        vowels = ["a", "e", "i", "o", "u"]
         s = s.split()
         #enumerate and process each item
         for id, item in enumerate(s):
@@ -29,9 +29,10 @@ class Solution():
             #consonant at beginning (rule 2)
             if item[0].lower() not in vowels:
                 #duplicate first letter to end
-                item = item + item[0]
+                if len(item) > 1:
+                    item = item + item[0]
                 #strip first letter
-                item = item.lstrip(item[0])
+                    item = item[1:]
                 item = item + 'ma'
                 s[id] = item
             #append an per index (rule3)
