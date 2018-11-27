@@ -11,6 +11,7 @@ Easy:
 - Wiggle Sort II (https://leetcode.com/problems/wiggle-sort-ii/description/)
 - Min Stack (https://leetcode.com/problems/min-stack/description/)
 - Binary Search (https://leetcode.com/problems/min-stack/description/) 
+- Valid Parentheses (https://leetcode.com/problems/valid-parentheses/solution/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
