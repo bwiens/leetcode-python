@@ -1,6 +1,8 @@
 #!/usr/bin/python
 #Benjamin Wiens
 #Valid Parentheses (https://leetcode.com/problems/valid-parentheses/solution/)
+#Leetcode Accepted
+
 class Solution:
     def isValid(self, s):
         """
