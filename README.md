@@ -12,6 +12,7 @@ Easy:
 - Min Stack (https://leetcode.com/problems/min-stack/description/)
 - Binary Search (https://leetcode.com/problems/min-stack/description/) 
 - Valid Parentheses (https://leetcode.com/problems/valid-parentheses/solution/)
+- First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
