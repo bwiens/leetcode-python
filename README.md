@@ -1,4 +1,5 @@
 # python-problems & implementations (mostly leetcode)
+# please note I haven't submitted all solutions but the ones I did, which were accepted, state "Leetcode Accepted" 
 
 Easy:
 - Two Sum (https://leetcode.com/problems/two-sum/)
@@ -24,6 +25,7 @@ Medium:
 - Happy Number (https://leetcode.com/problems/happy-number/)
 - Bulls and Cows (https://leetcode.com/problems/bulls-and-cows/)
 - Reverse Words in a String (https://leetcode.com/problems/reverse-words-in-a-string/)
+- Number of Islands (https://leetcode.com/problems/number-of-islands/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
