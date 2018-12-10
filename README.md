@@ -32,5 +32,5 @@ Hard:
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
 - Longest Substring with At Most K Distinct Characters (https://leetfree.com/problems/longest-substring-with-at-most-k-distinct-characters.html)
 - Candy (https://leetcode.com/problems/candy/)
-
+- Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/)
 *The assignments require the use of a Solution class.*
