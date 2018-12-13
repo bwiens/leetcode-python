@@ -15,6 +15,7 @@ Easy:
 - Valid Parentheses (https://leetcode.com/problems/valid-parentheses/solution/)
 - First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/)
 - Plus One (https://leetcode.com/problems/plus-one/)
+- Unique Email Addresses (https://leetcode.com/problems/unique-email-addresses)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
