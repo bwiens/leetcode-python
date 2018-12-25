@@ -3,6 +3,7 @@
 
 Easy:
 - Two Sum (https://leetcode.com/problems/two-sum/)
+- Two Sum 2 (Same but runs in O(n))
 - Valid Palindrome (https://leetcode.com/problems/valid-palindrome/)
 - Jewels and Stones (https://leetcode.com/problems/jewels-and-stones/description/)
 - Middle of the Linked List (https://leetcode.com/problems/middle-of-the-linked-list/description/)
