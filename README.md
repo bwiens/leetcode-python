@@ -19,6 +19,7 @@ Easy:
 - Unique Email Addresses (https://leetcode.com/problems/unique-email-addresses)
 - Reverse Vowels of a String (https://leetcode.com/problems/reverse-vowels-of-a-string)
 - Robot Return to Origin (https://leetcode.com/problems/robot-return-to-origin/)
+- Island Perimeter (https://leetcode.com/problems/island-perimeter/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
