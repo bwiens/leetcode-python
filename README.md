@@ -21,6 +21,7 @@ Easy:
 - Robot Return to Origin (https://leetcode.com/problems/robot-return-to-origin/)
 - Island Perimeter (https://leetcode.com/problems/island-perimeter/)
 - Reverse Integer (https://leetcode.com/problems/reverse-integer/)
+- License Key Formatting (https://leetcode.com/problems/license-key-formatting/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
