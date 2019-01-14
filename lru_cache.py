@@ -1,26 +1,30 @@
 #!/usr/bin/python
 #Benjamin Wiens
 #LRU Cache https://leetcode.com/problems/lru-cache/
+#Leetcode Accepted
 
-LRU = {}
-last_used = []
 class LRUCache(object):
 
     def __init__(self, capacity):
         """
         :type capacity: int
         """
-        capacity = 2
+        self.capacity = capacity
+        self.LRU = {}
+        self.last_used = []
+
     def get(self, key):
         """
         :type key: int
         :rtype: int
         """
-        #print(LRU.get(key))
-        v = LRU.get(key)
-        #put this key last (append) since we just used it
-        if key in last_used:
-            last_used.append(last_used.pop(last_used.index(key)))
+        # print(LRU.get(key))
+        v = self.LRU.get(key)
+        if v == None:
+            return -1
+        # put this key last (append) since we just used it
+        else:
+            self.last_used.append(self.last_used.pop(self.last_used.index(key)))
         return v
 
     def put(self, key, value):
@@ -29,22 +33,45 @@ class LRUCache(object):
         :type value: int
         :rtype: void
         """
-        if len(LRU) < 2:
-            LRU[key] = value
-            last_used.append(key)
-        else:
-            del_key = last_used[0]
-            del LRU[del_key]
-            del last_used[0]
-            LRU[key] = value
-            last_used.append(key)
+        #if key already in dict
+        if key in self.LRU:
+            del self.LRU[key]
+            #update
+            self.LRU[key] = value
+            self.last_used.remove(key)
+            self.last_used.append(key)
 
-LRUCache(2).put(1, 1)
-LRUCache(2).put(2, 2)
-print(LRUCache(2).get(1)) #returns 1
-LRUCache(2).put(3, 3) #evicts 2
-print(LRUCache(2).get(2)) #returns None
-LRUCache(2).put(4, 4) #evicts key 1
-print(LRUCache(2).get(1)) #returns None
-print(LRUCache(2).get(3)) #returns 3
-print(LRUCache(2).get(4)) #returns 4
+        #key not in dict yet
+        else:
+            if len(self.LRU) < self.capacity:
+                self.LRU[key] = value
+                self.last_used.append(key)
+
+            else:
+            #full
+                try:
+                    del self.LRU[self.last_used[0]]
+                except KeyError:
+                    print("Key not found")
+
+                del (self.last_used[0])
+                self.LRU[key] = value
+                self.last_used.append(key)
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
+
+object = LRUCache(2)
+print(object.get(2))
+object.put(2,6)
+print(object.get(1))
+object.put(1,5)
+object.put(1,2)
+print(object.get(1))
+print(object.get(2))
+
+#["LRUCache","get","put","get","put","put","get","get"]
+#[[2],[2],[2,6],[1],[1,5],[1,2],[1],[2]]
