@@ -30,6 +30,5 @@ class Solution:
                     return result
             result.append(max)
             c = 1
-            max = 0
 
 print(Solution().maxSlidingWindow(input, k))
