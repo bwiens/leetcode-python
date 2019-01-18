@@ -42,3 +42,4 @@ Hard:
 - Candy (https://leetcode.com/problems/candy/)
 - Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/)
+- Longest Substring with At Most Two Distinct Characters (https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
