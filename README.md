@@ -1,5 +1,6 @@
 # python-problems & implementations (mostly leetcode)
-# please note I haven't submitted all solutions but the ones I did, and which were accepted, state "Leetcode Accepted"  
+
+* please note I haven't submitted all solutions but the ones I did, and which were accepted, state "Leetcode Accepted"  
 
 Easy:
 - Two Sum (https://leetcode.com/problems/two-sum/)
