@@ -34,6 +34,7 @@ Medium:
 - Reverse Words in a String (https://leetcode.com/problems/reverse-words-in-a-string/)
 - Number of Islands (https://leetcode.com/problems/number-of-islands/)
 - Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
