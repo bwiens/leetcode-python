@@ -37,6 +37,7 @@ Medium:
 - Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 - Kth Largest Element in an Array (https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- Kth Smallest Element in a Sorted Matrix (https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
