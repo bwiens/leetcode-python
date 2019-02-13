@@ -24,6 +24,7 @@ Easy:
 - Reverse Integer (https://leetcode.com/problems/reverse-integer/)
 - License Key Formatting (https://leetcode.com/problems/license-key-formatting/)
 - Flood Fill (https://leetcode.com/problems/flood-fill/)
+- Find All Numbers Disappeared in an Array (https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
