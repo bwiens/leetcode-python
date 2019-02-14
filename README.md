@@ -41,6 +41,7 @@ Medium:
 - Kth Largest Element in an Array (https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - Kth Smallest Element in a Sorted Matrix (https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - 3Sum (https://leetcode.com/problems/3sum/)
+- Girls and Boys Swap (no url)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
