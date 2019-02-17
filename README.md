@@ -44,6 +44,7 @@ Medium:
 - Kth Smallest Element in a Sorted Matrix (https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - 3Sum (https://leetcode.com/problems/3sum/)
 - Girls and Boys Swap (no url)
+- Permutations (https://leetcode.com/problems/permutations/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
