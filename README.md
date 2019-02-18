@@ -27,6 +27,7 @@ Easy:
 - Find All Numbers Disappeared in an Array (https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - Best Time to Buy and Sell Stocks (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - Fizz-Buzz (https://leetcode.com/problems/fizz-buzz/)
+- Ransom Note (https://leetcode.com/problems/ransom-note)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
