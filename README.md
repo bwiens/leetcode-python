@@ -28,6 +28,7 @@ Easy:
 - Best Time to Buy and Sell Stocks (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - Fizz-Buzz (https://leetcode.com/problems/fizz-buzz/)
 - Ransom Note (https://leetcode.com/problems/ransom-note)
+- Palindrome Number (https://leetcode.com/problems/palindrome-number/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
