@@ -29,7 +29,7 @@ Easy:
 - Fizz-Buzz (https://leetcode.com/problems/fizz-buzz/)
 - Ransom Note (https://leetcode.com/problems/ransom-note)
 - Palindrome Number (https://leetcode.com/problems/palindrome-number/)
-
+- Fibonacci with and without Memoization
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
