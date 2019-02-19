@@ -2,23 +2,24 @@
 import math
 #Benjamin Wiens
 #https://leetcode.com/problems/binary-search/
+#Leetcode Accepted
+input = [-1,0,3,5,9,12]
+target = 2
+class Solution:
+    def search(self, nums: 'List[int]', target: 'int') -> 'int':
+        left = 0
+        right = len(nums) -1
+        while left <= right:
+            #find middle
+            m = math.floor((left + right) //2)
+            if nums[m] < target:
+                left = m + 1
+            elif nums[m] > target:
+                right = m -1
+            else: 
+                if nums[m] == target:
+                    #return the index
+                    return nums.index(target)
+        return -1
 
-unsorted = [21, 4, 1, 5, 19, 3, 25]
-unsorted.sort()
-
-def binary_search(target, array):
-    l = 0
-    r = len(unsorted)
-    while l <= r:
-        #find the middle element
-        m = math.floor((l + r) // 2)
-        #print(array[m])
-        if array[m] == target:
-            return m
-        if target > array[m]:
-            l = m + 1
-        if target < array[m]:
-            r = m - 1
-    return -1
-
-print(binary_search(25, unsorted))
+print(Solution().search(input, target))
