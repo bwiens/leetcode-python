@@ -32,6 +32,7 @@ Easy:
 - Fibonacci with and without Memoization
 - Binary Search (https://leetcode.com/problems/binary-search/)
 - Autocomplete (Daily Coding Problem #11)
+- Roman To Integer (https://leetcode.com/problems/roman-to-integer))
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
