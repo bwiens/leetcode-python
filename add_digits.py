@@ -1,5 +1,5 @@
 #!/usr/bin/python
-input = 123
+input = 31231
 
 def addDigits(digits):
 	x = 99
