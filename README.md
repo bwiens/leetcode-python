@@ -35,6 +35,7 @@ Easy:
 - Roman To Integer (https://leetcode.com/problems/roman-to-integer))
 - Add Digits
 - Missing Number (https://leetcode.com/problems/missing-number/)
+- Climbing Stairs (https://leetcode.com/problems/climbing-stairs/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
