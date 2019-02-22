@@ -34,6 +34,7 @@ Easy:
 - Autocomplete (Daily Coding Problem #11)
 - Roman To Integer (https://leetcode.com/problems/roman-to-integer))
 - Add Digits
+- Missing Number (https://leetcode.com/problems/missing-number/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
