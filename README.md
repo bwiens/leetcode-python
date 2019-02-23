@@ -36,6 +36,7 @@ Easy:
 - Add Digits
 - Missing Number (https://leetcode.com/problems/missing-number/)
 - Climbing Stairs (https://leetcode.com/problems/climbing-stairs/)
+- Move Zeroes (https://leetcode.com/problems/move-zeroes/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
