@@ -4,7 +4,7 @@
 #Append each element (sorted) to the result list
 #Merge when appropriate, otherwise append
 
-input = [[1,4],[0,2],[2,3],[3, 4], [7,9]]
+input = [[1,4],[0,2],[2,3],[3, 11], [7,9]]
 
 def mergintervals(intervals):
     result = []
@@ -17,7 +17,7 @@ def mergintervals(intervals):
             if i[0] <= result[-1][1]:
                 tmp = result[-1]
                 result.pop()
-                result.append([tmp[0],i[1]])
+                result.append([tmp[0],max(i[1],tmp[1])])
             else:
                 result.append(i)
     return(result)
