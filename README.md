@@ -40,6 +40,7 @@ Easy:
 - Best Subway Seat
 - Merge Intervals
 - Reverse String (https://leetcode.com/problems/reverse-string/)
+- Valid Anagram (https://leetcode.com/problems/valid-anagram/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
