@@ -53,6 +53,6 @@ print("itertools permutations:")
 iterperm(input)
 print("itertools combinations:")
 itercomb(input)
-
+#in combinations, order does not matter 3, 2, 1 is the same as 1, 2, 3 so only returns 3, 2, 1 
 #permutations('ABCD', 2)		AB AC AD BA BC BD CA CB CD DA DB DC
 #combinations('ABCD', 2)		AB AC AD BC BD CD
