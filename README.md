@@ -61,6 +61,7 @@ Medium:
 - Permutations (https://leetcode.com/problems/permutations/)
 - Permutations Exercise (for strings and integer lists)
 - Fruit into Baskets (https://leetcode.com/problems/fruit-into-baskets/)
+- Merge Intervals (https://leetcode.com/problems/merge-intervals/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
