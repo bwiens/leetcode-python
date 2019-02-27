@@ -41,6 +41,7 @@ Easy:
 - Merge Intervals
 - Reverse String (https://leetcode.com/problems/reverse-string/)
 - Valid Anagram (https://leetcode.com/problems/valid-anagram/)
+- Intersection of two Arrays (https://leetcode.com/problems/intersection-of-two-arrays/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
