@@ -8,7 +8,8 @@ input = [[1,4],[0,2],[2,3],[3, 11], [7,9]]
 
 def mergintervals(intervals):
     result = []
-    intervals = sorted(intervals)
+#   intervals = sorted(intervals) sorted returns something whereas sort just *does* something
+    intervals.sort()
     #print(intervals)
     for index, i in enumerate(intervals):
         if index == 0:
