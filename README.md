@@ -44,6 +44,7 @@ Easy:
 - Intersection of two Arrays (https://leetcode.com/problems/intersection-of-two-arrays/)
 - Hamming Distance (https://leetcode.com/problems/hamming-distance/) 
 - First Bad Version (https://leetcode.com/problems/first-bad-version/)
+
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
@@ -64,6 +65,7 @@ Medium:
 - Permutations Exercise (for strings and integer lists)
 - Fruit into Baskets (https://leetcode.com/problems/fruit-into-baskets/)
 - Merge Intervals (https://leetcode.com/problems/merge-intervals/)
+- Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
