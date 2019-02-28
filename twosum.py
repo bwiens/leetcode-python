@@ -1,27 +1,29 @@
 #!/usr/bin/python
 #Benjamin Wiens
 #Two Sum Problem
-#See Version 2 for Non-Bruteforce (twosum_2.py)
+#Leetcode Accepted
    
 nums = [2, 7, 11, 15]
 target = 9
 
-class Solution:
+class Solution(object):
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
         """
-	i=0
-	j=1
-	for i in range(len(nums)):
-        	for j in range(j, len(nums)):
-                	if nums[i] + nums[j] == target:
-                        	return (i, j)
-				
-
-
-
+        numdict, x = {}, 0
+        #create hashtable
+        for index, i in enumerate(nums):
+            numdict[i] = index
+        for index, i in enumerate(nums):
+            x = target - i
+            if x in numdict:
+                if index != numdict.get(x):
+                    return index, numdict.get(x)
 print(Solution().twoSum(nums, target))
-#two for loops indicate O(n^2) time, see Version 2 for O(n) solution
+
+#Time Complexity: O(n). We traverse the list containing n elements exactly twice. 
+#Since the hash table reduces the look up time to O(1), the time complexity is O(n)
+#Space Complexity:  O(n). The extra space required depends on the number of items stored in the hash table, which stores exactly nn elements.
