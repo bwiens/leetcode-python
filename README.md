@@ -44,6 +44,7 @@ Easy:
 - Intersection of two Arrays (https://leetcode.com/problems/intersection-of-two-arrays/)
 - Hamming Distance (https://leetcode.com/problems/hamming-distance/) 
 - First Bad Version (https://leetcode.com/problems/first-bad-version/)
+- Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
