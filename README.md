@@ -46,7 +46,8 @@ Easy:
 - First Bad Version (https://leetcode.com/problems/first-bad-version/)
 - Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 - Backspace String Compare (https://leetcode.com/problems/backspace-string-compare/)
-)
+- Meeting Rooms (https://leetcode.com/problems/meeting-rooms/submissions/)
+
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
