@@ -47,6 +47,7 @@ Easy:
 - Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 - Backspace String Compare (https://leetcode.com/problems/backspace-string-compare/)
 - Meeting Rooms (https://leetcode.com/problems/meeting-rooms/submissions/)
+- Remove Duplicates From Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
