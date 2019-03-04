@@ -6,12 +6,13 @@ input = -131
 class Solution:
     def isPalindrome(self, x: 'int') -> 'bool':
         s = str(x)
-        if len(s) == 1:
+        s_list = list(s)
+        reverse_s = ''
+        for i in range(0,len(s_list)):
+            reverse_s += s_list.pop()
+        if s == reverse_s:
             return True
-        s2 = s[::-1]
-        for index, i in enumerate(s):
-            if i != s2[index]:
-                return False
-        return True
-                       
+        else:
+            return False
+                        
 print(Solution().isPalindrome(input))

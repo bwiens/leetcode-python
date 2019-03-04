@@ -4,7 +4,13 @@
 #Leetcode Accepted 
 nums = [2, 7, 11, 15]
 target = 9
-
+class Solution:
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
         numdict, x = {}, 0
         #create hashtable
         for index, i in enumerate(nums):
