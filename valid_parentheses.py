@@ -3,43 +3,37 @@
 #Valid Parentheses (https://leetcode.com/problems/valid-parentheses/solution/)
 #Leetcode Accepted
 
+input = "{[[[()]]]}"
+
 class Solution:
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+    def isValid(self, s: str) -> bool:
         stack = []
-        #process from outside inwards with a stack
-        for i in s:
-            if i == "{" or i == "[" or i == "(":
-                stack.append(i)
-            #if i in ["}", ")", "]"]:
-            elif i == ")":
-                if len(stack) == 0:
+        
+        for bracket in s:
+            if bracket in ["(", "{", "["]:
+                stack.append(bracket)
+            #if stack is empty, stop
+            elif not stack:
+                return False
+            elif bracket == ")":
+                if stack[-1] in ["{", "["]:
                     return False
-                elif stack[-1] == "(":
+                else: 
                     stack.pop()
-                else:
+            elif bracket == "}":
+                if stack[-1] in ["(", "["]:
                     return False
-            elif i == "]":
-                if len(stack) == 0:
-                    return False
-                elif stack[-1] == "[":
+                else: 
                     stack.pop()
-                else:
+            elif bracket == "]":
+                if stack[-1] in ["(", "{"]:
                     return False
-            elif i == "}":
-                if len(stack) == 0:
-                    return False
-                elif stack[-1] == "{":
+                else: 
                     stack.pop()
-                else:
-                    return False
-        if len(stack) == 0:
+                    
+        if not stack:
             return True
         else:
             return False
 
-input = "{[[[()]]]}"
 print(Solution().isValid(input))
