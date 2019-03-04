@@ -3,33 +3,28 @@
 #Unique Email Addresses (https://leetcode.com/problems/unique-email-addresses)
 #Leetcode Accepted
 import re
-Input = ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]
+input = ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]
 
 class Solution:
     def numUniqueEmails(self, emails):
-        """
-        :param emails: List[str]
-        :return: int
-        """
+        atflag, plusflag = False, False
+        mail = ''
         result = []
-        c = 0
-        address = ""
-        for i in emails:
-            #regex to ignore +strings
-            i = re.sub(r'\+[^@]*(?=@)', '', i)
-            for index, k in enumerate(i):
-                if k != "." and k != "@":
-                    address += k
-                    #after @ don't ignore dots
-                if k == "@":
-                    for z in i[index:]:
-                        address += z
-                        z=""
-                        k=""
-                    result.append(address)
-                    address = ""
-                    break
-        c = len(set(result))
-        return c
+        for email in emails:
+            for i in email:
+                if atflag == False:
+                    if i == '@':
+                        mail += '@'
+                        atflag = True
+                    elif i == "+":
+                        plusflag = True
+                    elif i != "." and plusflag == False:
+                            mail += i
+                else:
+                    mail += i
+            result.append(mail)
+            mail = ''
+            atflag, plusflag = False, False
+        return len(set(result))
 
-print(Solution().numUniqueEmails(Input))
+print(Solution().numUniqueEmails(input))
