@@ -48,10 +48,11 @@ Easy:
 - Backspace String Compare (https://leetcode.com/problems/backspace-string-compare/)
 - Meeting Rooms (https://leetcode.com/problems/meeting-rooms/submissions/)
 - Remove Duplicates From Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- Combine Two Tables (https://leetcode.com/problems/combine-two-tables)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
-- Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort)
+- Bubble Sort (see wikipedia)
 - Meeting Rooms II (https://leetfree.com/problems/meeting-rooms-ii.html)
 - Next Closest Time (https://leetfree.com/problems/next-closest-time.html)
 - Replace Words (https://leetcode.com/problems/replace-words/description/)
@@ -72,6 +73,7 @@ Medium:
 - Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - Is Subsequence (https://leetcode.com/problems/is-subsequence)
 - Meeting Rooms II (https://leetcode.com/problems/meeting-rooms-ii/)
+
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
