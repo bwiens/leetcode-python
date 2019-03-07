@@ -4,27 +4,23 @@
 
 input = ["cat", "bat", "rat"]
 sentence = "the cattle was rattled by the battery"
-result = []
-result_str = ''
 
 class Solution:
     def replaceWords(self, dict, sentence):
-        """
-        :param dict: List[str]
-        :param sentence: str
-        :return: str
-        """
-        #convert to list
         sentence_list = sentence.split()
-        #check if words are part of the list
+        result = []
         for i in sentence_list:
-            #use replacement instead
-            if i[:3] in input:
-                result.append(i[:3])
-            #use original
-            else:
+            c, found = 1, False
+            #loop over the word, find the shortest match
+            while c < len(i) and found == False:
+                if i[:c] in dict:
+                    found = True
+                    result.append(i[:c])
+                    break
+                c+=1
+            #if no match has been found
+            if found == False:
                 result.append(i)
-            result_str = ' '.join(result)
-        return result_str
+        return ' '.join(result)
 
 print(Solution().replaceWords(input, sentence))
