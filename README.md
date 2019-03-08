@@ -50,6 +50,8 @@ Easy:
 - Remove Duplicates From Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - Combine Two Tables (https://leetcode.com/problems/combine-two-tables)
 - Majority Element (https://leetcode.com/problems/majority-element/)
+- Sort Array By Parity
+
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (see wikipedia)
