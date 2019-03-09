@@ -51,6 +51,7 @@ Easy:
 - Combine Two Tables (https://leetcode.com/problems/combine-two-tables)
 - Majority Element (https://leetcode.com/problems/majority-element/)
 - Sort Array By Parity
+- Flipping An Image (https://leetcode.com/problems/flipping-an-image/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
