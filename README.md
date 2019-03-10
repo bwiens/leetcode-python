@@ -52,6 +52,7 @@ Easy:
 - Majority Element (https://leetcode.com/problems/majority-element/)
 - Sort Array By Parity
 - Flipping An Image (https://leetcode.com/problems/flipping-an-image/)
+- Maximum Subarray (https://leetcode.com/problems/maximum-subarray/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
