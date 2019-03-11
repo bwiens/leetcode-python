@@ -10,15 +10,22 @@ J2 = "z"
 S1 = "aAAbbbb"
 S2 = "ZZ"
 
-class Solution:
-    def numJewelsInStones(self, J: 'str', S: 'str') -> 'int':
-        if not J:
-            return 0
-        jewels = 0
-        for i in S:
-            if i in J:
-                jewels += 1
-        return jewels
+class Solution(object):
+    def numJewelsInStones(self, J, S):
+        """
+        :type J: str
+        :type S: str
+        :rtype: int
+        """
+        dict, count = {}, 0
+        for e in J:
+            if e not in dict:
+                dict[e] = None
+        for e in S:
+            if e in dict:
+                count+=1
+        return count
 
+#Runtime: O(n+m) Space O(n)
 print(Solution().numJewelsInStones(J1, S1))
 print(Solution().numJewelsInStones(J2, S2))
