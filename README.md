@@ -77,6 +77,7 @@ Medium:
 - Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - Is Subsequence (https://leetcode.com/problems/is-subsequence)
 - Meeting Rooms II (https://leetcode.com/problems/meeting-rooms-ii/)
+- Longest Palindromic Substring (https://leetcode.com/problems/longest-palindromic-substring/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
