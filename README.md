@@ -79,6 +79,7 @@ Medium:
 - Is Subsequence (https://leetcode.com/problems/is-subsequence)
 - Meeting Rooms II (https://leetcode.com/problems/meeting-rooms-ii/)
 - Longest Palindromic Substring (https://leetcode.com/problems/longest-palindromic-substring/)
+- Boats to Save People (https://leetcode.com/problems/boats-to-save-people/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
