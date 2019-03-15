@@ -4,18 +4,25 @@
 #Leetcode Accepted
 input = [3,0,1]
 class Solution:
-    def missingNumber(self, nums: 'List[int]') -> 'int':
-        nums = sorted(nums, reverse=True)
-        if nums == [0]:
-            return 1
-        if nums == [1]:
-            return 0
-        for index, i in enumerate(nums):
-            if index + 1 <= len(nums) -1:
-                if i - nums[index+1] > 1:
-                    return i - 1
-        if nums[-1] != 0:
-            return 0
-        else:
-            return nums[0] + 1
+    def missingNumber(self, nums):
+        #slow version: (nlogn)
+ #        nums.sort()
+ #       for i, el in enumerate(nums):
+ #           if i != el:
+ #               return i
+ #       return nums[-1]+1
+    
+        #fast version O(n)
+        #in case there are duplicates
+        nums_set = set(nums)
+        #create hashtable
+        ndict = {}
+        for el in nums_set:
+            ndict[el] = None
+        #one number will always be missing
+        total = len(nums_set) + 1
+        for i in range(total):
+            if i not in ndict:
+                return i
+
 print(Solution().missingNumber(input))
