@@ -3,61 +3,35 @@
 #LRU Cache https://leetcode.com/problems/lru-cache/
 #Leetcode Accepted
 
-class LRUCache(object):
-
-    def __init__(self, capacity):
-        """
-        :type capacity: int
-        """
+from collections import OrderedDict
+class LRUCache:
+    """discards the least recenlty used item first"""    
+    def __init__(self, capacity: int):
+        """set capacity"""
         self.capacity = capacity
-        self.LRU = {}
-        self.last_used = []
-
-    def get(self, key):
-        """
-        :type key: int
-        :rtype: int
-        """
-        # print(LRU.get(key))
-        v = self.LRU.get(key)
-        if v == None:
-            return -1
-        # put this key last (append) since we just used it
-        else:
-            self.last_used.append(self.last_used.pop(self.last_used.index(key)))
-        return v
-
-    def put(self, key, value):
-        """
-        :type key: int
-        :type value: int
-        :rtype: void
-        """
-        #if key already in dict
-        if key in self.LRU:
-            del self.LRU[key]
-            #update
-            self.LRU[key] = value
-            self.last_used.remove(key)
-            self.last_used.append(key)
-
-        #key not in dict yet
-        else:
-            if len(self.LRU) < self.capacity:
-                self.LRU[key] = value
-                self.last_used.append(key)
-
+        self.odict = OrderedDict()
+    def get(self, key: int):
+        if len(self.odict) > 0:
+            if key in self.odict:
+                tmp = self.odict.get(key)
+                #insert again, to put least recently used at the bottom
+                del self.odict[key]
+                self.odict[key] = tmp
+                return tmp
             else:
-            #full
-                try:
-                    del self.LRU[self.last_used[0]]
-                except KeyError:
-                    print("Key not found")
-
-                del (self.last_used[0])
-                self.LRU[key] = value
-                self.last_used.append(key)
-
+                return -1
+        else:
+            return -1
+    def put(self, key: int, value: int) -> None:
+        #update the key if it already exists
+        if key in self.odict:
+            del self.odict[key]
+            self.odict[key] = value
+        elif len(self.odict) >= self.capacity:
+            self.odict.popitem(last=False)
+            self.odict[key] = value
+        else:
+            self.odict[key] = value
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
