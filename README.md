@@ -55,6 +55,8 @@ Easy:
 - Maximum Subarray (https://leetcode.com/problems/maximum-subarray/)
 - Stack Implementation and Stack Sorting
 - Rotate Image (https://leetcode.com/problems/rotate-image/solution/)
+- Find First Positive Number (https://www.geeksforgeeks.org/find-the-point-where-a-function-becomes-negative/)
+- Recursively Sum Up to Target
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
