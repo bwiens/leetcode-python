@@ -83,6 +83,7 @@ Medium:
 - Boats to Save People (https://leetcode.com/problems/boats-to-save-people/)
 - Find Peak Element (https://leetcode.com/problems/find-peak-element/)
 - Sort Characters by Frequency (https://leetcode.com/problems/sort-characters-by-frequency/)
+- Generate Parentheses (https://leetcode.com/problems/generate-parentheses/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
