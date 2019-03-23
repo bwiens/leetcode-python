@@ -86,6 +86,7 @@ Medium:
 - Find Peak Element (https://leetcode.com/problems/find-peak-element/)
 - Sort Characters by Frequency (https://leetcode.com/problems/sort-characters-by-frequency/)
 - Generate Parentheses (https://leetcode.com/problems/generate-parentheses/) 
+- Top K Frequent Elements (https://leetcode.com/problems/top-k-frequent-elements/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
