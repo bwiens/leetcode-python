@@ -58,6 +58,8 @@ Easy:
 - Find First Positive Number (https://www.geeksforgeeks.org/find-the-point-where-a-function-becomes-negative/)
 - Recursively Sum Up to Target
 - Most Common Word (https://leetcode.com/problems/most-common-word/)
+- Detect Capital (https://leetcode.com/problems/detect-capital/)
+
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (see wikipedia)
