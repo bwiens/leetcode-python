@@ -59,6 +59,7 @@ Easy:
 - Recursively Sum Up to Target
 - Most Common Word (https://leetcode.com/problems/most-common-word/)
 - Detect Capital (https://leetcode.com/problems/detect-capital/)
+- Same Tree (https://leetcode.com/problems/same-tree/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
