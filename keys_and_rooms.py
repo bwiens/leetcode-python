@@ -27,4 +27,7 @@ class Solution:
             return True
         else:
             return False
+
 print(Solution().canVisitAllRooms(keys_rooms))
+#Time Complexity: O(N+E), where N is the number of rooms, and E is the total number of keys.
+#Space Complexity: O(N) in additional space complexity, to store stack and seen.
