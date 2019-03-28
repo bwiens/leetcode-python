@@ -60,6 +60,7 @@ Easy:
 - Most Common Word (https://leetcode.com/problems/most-common-word/)
 - Detect Capital (https://leetcode.com/problems/detect-capital/)
 - Same Tree (https://leetcode.com/problems/same-tree/)
+- House Robber (https://leetcode.com/problems/house-robber/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
