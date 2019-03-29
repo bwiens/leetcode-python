@@ -92,6 +92,7 @@ Medium:
 - Generate Parentheses (https://leetcode.com/problems/generate-parentheses/) 
 - Top K Frequent Elements (https://leetcode.com/problems/top-k-frequent-elements/)
 - Keys and Rooms (https://leetcode.com/problems/keys-and-rooms)
+- K Closest Points to Origin (https://leetcode.com/problems/k-closest-points-to-origin/submissions/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
