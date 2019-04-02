@@ -93,6 +93,7 @@ Medium:
 - Top K Frequent Elements (https://leetcode.com/problems/top-k-frequent-elements/)
 - Keys and Rooms (https://leetcode.com/problems/keys-and-rooms)
 - K Closest Points to Origin (https://leetcode.com/problems/k-closest-points-to-origin/submissions/)
+- Max Area of Island (https://leetcode.com/problems/max-area-of-island/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
