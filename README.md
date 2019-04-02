@@ -81,6 +81,7 @@ Medium:
 - Permutations (https://leetcode.com/problems/permutations/)
 - Permutations Exercise (for strings and integer lists)
 - Fruit into Baskets (https://leetcode.com/problems/fruit-into-baskets/)
+ - 2nd Version using a dict
 - Merge Intervals (https://leetcode.com/problems/merge-intervals/)
 - Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - Is Subsequence (https://leetcode.com/problems/is-subsequence)
