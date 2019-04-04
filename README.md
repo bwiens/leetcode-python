@@ -97,6 +97,7 @@ Medium:
 - K Closest Points to Origin (https://leetcode.com/problems/k-closest-points-to-origin/submissions/)
 - Max Area of Island (https://leetcode.com/problems/max-area-of-island/)
 - Game of Life (https://leetcode.com/problems/game-of-life/) 
+- Binary Tree Level Order Traversal (https://leetcode.com/problems/binary-tree-level-order-traversal)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
