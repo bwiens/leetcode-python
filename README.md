@@ -63,6 +63,7 @@ Easy:
 - House Robber (https://leetcode.com/problems/house-robber/)
 - Maximize Distance to Closest Person (https://leetcode.com/problems/maximize-distance-to-closest-person)
 - Binary Tree Level order Traversal II (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- Average of Levels in Binary Tree (https://leetcode.com/problems/average-of-levels-in-binary-tree)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
