@@ -62,6 +62,7 @@ Easy:
 - Same Tree (https://leetcode.com/problems/same-tree/)
 - House Robber (https://leetcode.com/problems/house-robber/)
 - Maximize Distance to Closest Person (https://leetcode.com/problems/maximize-distance-to-closest-person)
+- Binary Tree Level order Traversal II (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
