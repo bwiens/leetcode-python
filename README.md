@@ -101,7 +101,7 @@ Medium:
 - Max Area of Island (https://leetcode.com/problems/max-area-of-island/)
 - Game of Life (https://leetcode.com/problems/game-of-life/) 
 - Binary Tree Level Order Traversal (https://leetcode.com/problems/binary-tree-level-order-traversal)
-
+- Summary Ranges (https://leetcode.com/problems/summary-ranges/)
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
