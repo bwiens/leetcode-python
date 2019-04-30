@@ -65,6 +65,7 @@ Easy:
 - Binary Tree Level order Traversal II (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - Average of Levels in Binary Tree (https://leetcode.com/problems/average-of-levels-in-binary-tree)
 - Sum of Left Leaves (https://leetcode.com/problems/sum-of-left-leaves)
+- Find Pivot Index (https://leetcode.com/problems/find-pivot-index/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
