@@ -66,6 +66,7 @@ Easy:
 - Average of Levels in Binary Tree (https://leetcode.com/problems/average-of-levels-in-binary-tree)
 - Sum of Left Leaves (https://leetcode.com/problems/sum-of-left-leaves)
 - Find Pivot Index (https://leetcode.com/problems/find-pivot-index/)
+- Search Insert Position (https://leetcode.com/problems/search-insert-position/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
