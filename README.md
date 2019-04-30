@@ -67,6 +67,7 @@ Easy:
 - Sum of Left Leaves (https://leetcode.com/problems/sum-of-left-leaves)
 - Find Pivot Index (https://leetcode.com/problems/find-pivot-index/)
 - Search Insert Position (https://leetcode.com/problems/search-insert-position/)
+- Guess Number Higher or Lower (https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
