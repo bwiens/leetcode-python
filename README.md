@@ -70,6 +70,7 @@ Easy:
 - Guess Number Higher or Lower (https://leetcode.com/problems/guess-number-higher-or-lower/)
 - Range Sum of BST (https://leetcode.com/problems/range-sum-of-bst/) 
 - To Lower Case (https://leetcode.com/problems/to-lower-case/) 
+- Unique Morse Code Words (https://leetcode.com/problems/unique-morse-code-words)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
