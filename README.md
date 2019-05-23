@@ -110,6 +110,7 @@ Medium:
 - Binary Tree Level Order Traversal (https://leetcode.com/problems/binary-tree-level-order-traversal)
 - Summary Ranges (https://leetcode.com/problems/summary-ranges/)
 - Subarray Sum Equals K (https://leetcode.com/problems/subarray-sum-equals-k/)
+- Max Increase to Keep City Skyline (https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
