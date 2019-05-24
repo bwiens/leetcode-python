@@ -70,6 +70,7 @@ Easy:
 - To Lower Case (https://leetcode.com/problems/to-lower-case/) 
 - Unique Morse Code Words (https://leetcode.com/problems/unique-morse-code-words)
 - Squares of a Sorted Array (https://leetcode.com/problems/squares-of-a-sorted-array/)
+- N-Repeated Element in Size 2N Array (https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
