@@ -72,6 +72,7 @@ Easy:
 - Squares of a Sorted Array (https://leetcode.com/problems/squares-of-a-sorted-array/)
 - N-Repeated Element in Size 2N Array (https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - Path Sum (https://leetcode.com/problems/path-sum)
+- Next Greater Element (https://leetcode.com/problems/next-greater-element-i)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
