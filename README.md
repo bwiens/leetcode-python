@@ -73,6 +73,7 @@ Easy:
 - N-Repeated Element in Size 2N Array (https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - Path Sum (https://leetcode.com/problems/path-sum)
 - Next Greater Element (https://leetcode.com/problems/next-greater-element-i)
+- Find Common Characters (https://leetcode.com/problems/find-common-characters)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
