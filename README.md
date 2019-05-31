@@ -114,6 +114,7 @@ Medium:
 - Summary Ranges (https://leetcode.com/problems/summary-ranges/)
 - Subarray Sum Equals K (https://leetcode.com/problems/subarray-sum-equals-k/)
 - Max Increase to Keep City Skyline (https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+- Repeated DNA Sequences (https://leetcode.com/problems/repeated-dna-sequences/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
