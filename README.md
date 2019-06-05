@@ -75,6 +75,7 @@ Easy:
 - Next Greater Element (https://leetcode.com/problems/next-greater-element-i)
 - Find Common Characters (https://leetcode.com/problems/find-common-characters)
 - Intersection of Two Arrays II (https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- Delete a Node in a Linked List (https://leetcode.com/problems/delete-node-in-a-linked-list)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
