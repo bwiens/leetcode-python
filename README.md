@@ -77,6 +77,7 @@ Easy:
 - Intersection of Two Arrays II (https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - Delete a Node in a Linked List (https://leetcode.com/problems/delete-node-in-a-linked-list)
 - Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/)
+- Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
