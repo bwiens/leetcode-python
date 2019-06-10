@@ -78,6 +78,7 @@ Easy:
 - Delete a Node in a Linked List (https://leetcode.com/problems/delete-node-in-a-linked-list)
 - Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/)
 - Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)
+- Occurences After Bigram (https://leetcode.com/problems/occurrences-after-bigram/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
