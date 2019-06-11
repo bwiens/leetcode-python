@@ -79,6 +79,7 @@ Easy:
 - Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/)
 - Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)
 - Occurences After Bigram (https://leetcode.com/problems/occurrences-after-bigram/) 
+- Fixed Point (https://leetcode.com/problems/fixed-point/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
