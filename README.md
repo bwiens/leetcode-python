@@ -81,6 +81,7 @@ Easy:
 - Occurences After Bigram (https://leetcode.com/problems/occurrences-after-bigram/) 
 - Fixed Point (https://leetcode.com/problems/fixed-point/)
 - Student Attendance Record I (https://leetcode.com/problems/student-attendance-record-i/)
+- Sum of Even Numbers After Queries (https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
