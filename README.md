@@ -82,6 +82,7 @@ Easy:
 - Fixed Point (https://leetcode.com/problems/fixed-point/)
 - Student Attendance Record I (https://leetcode.com/problems/student-attendance-record-i/)
 - Sum of Even Numbers After Queries (https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+- Fibonacci Number (https://leetcode.com/problems/fibonacci-number/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
