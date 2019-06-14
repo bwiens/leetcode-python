@@ -84,6 +84,8 @@ Easy:
 - Sum of Even Numbers After Queries (https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - Fibonacci Number (https://leetcode.com/problems/fibonacci-number/)
 - Last Stone Weight (https://leetcode.com/problems/last-stone-weight)
+- Insert Delete GetRandom O(1) (https://leetcode.com/problems/insert-delete-getrandom-o1)
+
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (see wikipedia)
