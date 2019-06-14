@@ -7,7 +7,7 @@ stones = [3,7,2]
 import heapq
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
-        #the trick is to create a minheap, after inverting the numbers
+        #the trick is to create a minheap after negating the numbers
         for index, i in enumerate(stones):
             stones[index] = i * -1
         heapq.heapify(stones)
