@@ -127,6 +127,7 @@ Medium:
 - Max Increase to Keep City Skyline (https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 - Repeated DNA Sequences (https://leetcode.com/problems/repeated-dna-sequences/)
 - Custom Sort String (https://leetcode.com/problems/custom-sort-string)
+- Find Lonely Pixel (https://leetcode.com/problems/lonely-pixel-i/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
