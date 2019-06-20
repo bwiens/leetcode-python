@@ -86,6 +86,7 @@ Easy:
 - Last Stone Weight (https://leetcode.com/problems/last-stone-weight)
 - Insert Delete GetRandom O(1) (https://leetcode.com/problems/insert-delete-getrandom-o1)
 - Array Partition (https://leetcode.com/problems/array-partition-i/) 
+- Shortest Unsorted Continuous Subarray (https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
