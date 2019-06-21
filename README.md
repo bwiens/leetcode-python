@@ -88,6 +88,7 @@ Easy:
 - Array Partition (https://leetcode.com/problems/array-partition-i/) 
 - Shortest Unsorted Continuous Subarray (https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) 
 - Single Number (https://leetcode.com/problems/single-number/)
+- High Five (https://leetcode.com/problems/high-five/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
