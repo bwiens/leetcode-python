@@ -1,0 +1,23 @@
+#!/usr/bin/python
+# Benjamin Wiens
+# Single Number (https://leetcode.com/problems/single-number/)
+# Leetcode Accepted
+
+numbers = [2,2,1]
+
+class Solution:
+    def singleNumber(self, nums):
+        hmap = {}
+        candidate = -1
+        for number in nums:
+            if number in hmap:
+                hmap.pop(number)
+            else:
+                hmap[number] = 1
+        for key, value in hmap.items():
+                return key
+        return -1
+
+print(Solution().singleNumber(numbers))
+
+#O(n) time and space
