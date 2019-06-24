@@ -89,6 +89,7 @@ Easy:
 - Shortest Unsorted Continuous Subarray (https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) 
 - Single Number (https://leetcode.com/problems/single-number/)
 - High Five (https://leetcode.com/problems/high-five/)
+- Max Consecutive Ones (https://leetcode.com/problems/max-consecutive-ones/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
