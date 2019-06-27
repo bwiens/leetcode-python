@@ -90,6 +90,7 @@ Easy:
 - Single Number (https://leetcode.com/problems/single-number/)
 - High Five (https://leetcode.com/problems/high-five/)
 - Max Consecutive Ones (https://leetcode.com/problems/max-consecutive-ones/)
+- Plus One Linked List (https://leetcode.com/problems/plus-one-linked-list/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
