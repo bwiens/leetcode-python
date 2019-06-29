@@ -91,6 +91,7 @@ Easy:
 - High Five (https://leetcode.com/problems/high-five/)
 - Max Consecutive Ones (https://leetcode.com/problems/max-consecutive-ones/)
 - Plus One Linked List (https://leetcode.com/problems/plus-one-linked-list/)
+- Nim Game (https://leetcode.com/problems/nim-game/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
