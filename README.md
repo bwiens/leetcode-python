@@ -92,6 +92,7 @@ Easy:
 - Max Consecutive Ones (https://leetcode.com/problems/max-consecutive-ones/)
 - Plus One Linked List (https://leetcode.com/problems/plus-one-linked-list/)
 - Nim Game (https://leetcode.com/problems/nim-game/)
+- Remove Duplicates From Sorted List (https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
