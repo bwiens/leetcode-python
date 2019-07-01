@@ -93,6 +93,7 @@ Easy:
 - Plus One Linked List (https://leetcode.com/problems/plus-one-linked-list/)
 - Nim Game (https://leetcode.com/problems/nim-game/)
 - Remove Duplicates From Sorted List (https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- Remove Linked List Elements (https://leetcode.com/problems/remove-linked-list-elements/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
