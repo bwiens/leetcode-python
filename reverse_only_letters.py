@@ -14,7 +14,6 @@ class Solution:
                 hmap[index] = char
             else:
                 stack.append(char)
-        i = 0
         for i in range(len(S)):
             if i in hmap:
                 result = result + hmap.get(i)
