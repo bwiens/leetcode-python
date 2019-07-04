@@ -97,8 +97,8 @@ Easy:
 - Palindrome Linked List (https://leetcode.com/problems/palindrome-linked-list/)
 - Reverse Only Letters (https://leetcode.com/problems/reverse-only-letters)
 - Remove Outer Parentheses (https://leetcode.com/problems/remove-outermost-parentheses)
-- Sum of Digits in the Minimum Number (https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
-)
+- Sum of Digits in the Minimum Number (https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)
+- Monotonic Array (https://leetcode.com/problems/monotonic-array/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
