@@ -99,6 +99,7 @@ Easy:
 - Remove Outer Parentheses (https://leetcode.com/problems/remove-outermost-parentheses)
 - Sum of Digits in the Minimum Number (https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)
 - Monotonic Array (https://leetcode.com/problems/monotonic-array/)
+- DI String Match (https://leetcode.com/problems/di-string-match)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
