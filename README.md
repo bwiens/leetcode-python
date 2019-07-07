@@ -102,6 +102,7 @@ Easy:
 - DI String Match (https://leetcode.com/problems/di-string-match)
 - Contains Duplicates (https://leetcode.com/problems/contains-duplicate)
 - Contains Duplicate II (https://leetcode.com/problems/contains-duplicate-ii/)
+- Find the Difference (https://leetcode.com/problems/find-the-difference/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
