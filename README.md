@@ -101,6 +101,7 @@ Easy:
 - Monotonic Array (https://leetcode.com/problems/monotonic-array/)
 - DI String Match (https://leetcode.com/problems/di-string-match)
 - Contains Duplicates (https://leetcode.com/problems/contains-duplicate)
+- Contains Duplicate II (https://leetcode.com/problems/contains-duplicate-ii/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
