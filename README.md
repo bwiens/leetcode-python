@@ -146,6 +146,7 @@ Medium:
 - Repeated DNA Sequences (https://leetcode.com/problems/repeated-dna-sequences/)
 - Custom Sort String (https://leetcode.com/problems/custom-sort-string)
 - Find Lonely Pixel (https://leetcode.com/problems/lonely-pixel-i/)
+- Corporate Flight Bookings (https://leetcode.com/problems/corporate-flight-bookings) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
