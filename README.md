@@ -104,6 +104,7 @@ Easy:
 - Contains Duplicate II (https://leetcode.com/problems/contains-duplicate-ii/)
 - Find the Difference (https://leetcode.com/problems/find-the-difference/)
 - Defanging an IP Address (https://leetcode.com/problems/defanging-an-ip-address/)
+- Self Dividing Numbers (https://leetcode.com/problems/self-dividing-numbers)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
