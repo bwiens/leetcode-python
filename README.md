@@ -150,7 +150,8 @@ Medium:
 - Custom Sort String (https://leetcode.com/problems/custom-sort-string)
 - Find Lonely Pixel (https://leetcode.com/problems/lonely-pixel-i/)
 - Corporate Flight Bookings (https://leetcode.com/problems/corporate-flight-bookings) 
-
+- Top K Frequent Words (https://leetcode.com/problems/top-k-frequent-words/)
+)
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
