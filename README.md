@@ -109,6 +109,7 @@ Easy:
 - Reverse Words in a String (https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - Remove Vowels From a String (https://leetcode.com/problems/remove-vowels-from-a-string/)
 - Number Complement (https://leetcode.com/problems/number-complement/)
+- Leaf-Similiar Trees (https://leetcode.com/problems/leaf-similar-trees/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
@@ -153,7 +154,7 @@ Medium:
 - Find Lonely Pixel (https://leetcode.com/problems/lonely-pixel-i/)
 - Corporate Flight Bookings (https://leetcode.com/problems/corporate-flight-bookings) 
 - Top K Frequent Words (https://leetcode.com/problems/top-k-frequent-words/)
-)
+
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
