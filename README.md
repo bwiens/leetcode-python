@@ -110,6 +110,7 @@ Easy:
 - Remove Vowels From a String (https://leetcode.com/problems/remove-vowels-from-a-string/)
 - Number Complement (https://leetcode.com/problems/number-complement/)
 - Leaf-Similiar Trees (https://leetcode.com/problems/leaf-similar-trees/)
+- Binary Tree and Linked List Traversal Examples 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
