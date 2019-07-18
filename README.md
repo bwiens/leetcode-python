@@ -112,6 +112,7 @@ Easy:
 - Leaf-Similiar Trees (https://leetcode.com/problems/leaf-similar-trees/)
 - Binary Tree and Linked List Traversal Examples 
 - Merge Two Binary Trees (https://leetcode.com/problems/merge-two-binary-trees/)
+- N-ary Tree Preorder Traversal (https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
