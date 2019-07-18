@@ -111,6 +111,7 @@ Easy:
 - Number Complement (https://leetcode.com/problems/number-complement/)
 - Leaf-Similiar Trees (https://leetcode.com/problems/leaf-similar-trees/)
 - Binary Tree and Linked List Traversal Examples 
+- Merge Two Binary Trees (https://leetcode.com/problems/merge-two-binary-trees/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
