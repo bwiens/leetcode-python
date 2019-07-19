@@ -113,7 +113,8 @@ Easy:
 - Binary Tree and Linked List Traversal Examples 
 - Merge Two Binary Trees (https://leetcode.com/problems/merge-two-binary-trees/)
 - N-ary Tree Preorder Traversal (https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
-- Reorder Log Files (https://leetcode.com/problems/reorder-log-files/) 
+- N-ary Tree Postorder Traversal (https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+- Reorder Log Files (https://leetcode.com/problems/reorder-log-files/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
