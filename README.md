@@ -115,6 +115,7 @@ Easy:
 - N-ary Tree Preorder Traversal (https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 - N-ary Tree Postorder Traversal (https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 - Reorder Log Files (https://leetcode.com/problems/reorder-log-files/)
+- Two Sum II - Input Array is Sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
