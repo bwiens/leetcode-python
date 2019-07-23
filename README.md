@@ -117,7 +117,6 @@ Easy:
 - Reorder Log Files (https://leetcode.com/problems/reorder-log-files/)
 - Two Sum II - Input Array is Sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - Implement strStr() (https://leetcode.com/problems/implement-strstr/)
-- Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
@@ -163,6 +162,7 @@ Medium:
 - Corporate Flight Bookings (https://leetcode.com/problems/corporate-flight-bookings) 
 - Top K Frequent Words (https://leetcode.com/problems/top-k-frequent-words/)
 - Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/)
+- Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
