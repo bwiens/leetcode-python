@@ -117,6 +117,7 @@ Easy:
 - Reorder Log Files (https://leetcode.com/problems/reorder-log-files/)
 - Two Sum II - Input Array is Sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - Implement strStr() (https://leetcode.com/problems/implement-strstr/)
+- Distribute Candies to People (https://leetcode.com/problems/distribute-candies-to-people/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
