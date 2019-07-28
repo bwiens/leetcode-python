@@ -166,6 +166,7 @@ Medium:
 - Top K Frequent Words (https://leetcode.com/problems/top-k-frequent-words/)
 - Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/)
 - Minimum Add to Make Parentheses Valid (https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
+- Maximum Binary Tree (https://leetcode.com/problems/maximum-binary-tree/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
