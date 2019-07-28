@@ -119,6 +119,7 @@ Easy:
 - Implement strStr() (https://leetcode.com/problems/implement-strstr/)
 - Distribute Candies to People (https://leetcode.com/problems/distribute-candies-to-people/)
 - Keyboard Row (https://leetcode.com/problems/keyboard-row/)
+- Largest Unique Number (https://leetcode.com/contest/biweekly-contest-5/problems/largest-unique-number/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
