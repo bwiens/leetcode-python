@@ -124,6 +124,7 @@ Easy:
 - Minimum Moves to Equal Array Elements (https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 - Rotate String (https://leetcode.com/problems/rotate-string)
 - Armstrong Number (https://leetcode.com/problems/armstrong-number/)
+- Max Stack (https://leetcode.com/problems/max-stack/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
