@@ -6,8 +6,15 @@ mountain = [0,1,0]
 
 class Solution:
     def peakIndexInMountainArray(self, A):
-        for index, number in enumerate(A[1:-1], 1):
-            if number > A[index-1] and number > A[index+1]:
-                return index
+        left = 0
+        right = len(A) -1
+        while left < right:
+            m = (left+right)//2
+            if A[m] > A[m-1] and A[m] > A[m+1]:
+                return m
+            elif A[m] < A[m+1]:
+                left = m + 1
+            else:
+                right = m
 
 print(Solution().peakIndexInMountainArray(mountain))
