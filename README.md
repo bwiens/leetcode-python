@@ -125,6 +125,7 @@ Easy:
 - Rotate String (https://leetcode.com/problems/rotate-string)
 - Armstrong Number (https://leetcode.com/problems/armstrong-number/)
 - Max Stack (https://leetcode.com/problems/max-stack/) 
+- Peak Index in a Mountain Array (https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
