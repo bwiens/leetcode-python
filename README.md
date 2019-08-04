@@ -126,6 +126,7 @@ Easy:
 - Armstrong Number (https://leetcode.com/problems/armstrong-number/)
 - Max Stack (https://leetcode.com/problems/max-stack/) 
 - Peak Index in a Mountain Array (https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- Confusing Number (https://leetcode.com/problems/confusing-number)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
