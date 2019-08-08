@@ -176,7 +176,8 @@ Medium:
 - Maximum Binary Tree (https://leetcode.com/problems/maximum-binary-tree/)
 - Minimum Moves to Equal Array Elements II (https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 - 4Sum II (https://leetcode.com/problems/4sum-ii)
-)
+- Missing Element in Sorted Array (https://leetcode.com/problems/missing-element-in-sorted-array/)
+
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
