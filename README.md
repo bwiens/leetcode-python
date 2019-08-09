@@ -127,6 +127,7 @@ Easy:
 - Max Stack (https://leetcode.com/problems/max-stack/) 
 - Peak Index in a Mountain Array (https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - Confusing Number (https://leetcode.com/problems/confusing-number)
+- Delete Columns to Make Sorted (https://leetcode.com/problems/delete-columns-to-make-sorted)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
