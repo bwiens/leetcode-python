@@ -128,6 +128,7 @@ Easy:
 - Peak Index in a Mountain Array (https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - Confusing Number (https://leetcode.com/problems/confusing-number)
 - Delete Columns to Make Sorted (https://leetcode.com/problems/delete-columns-to-make-sorted)
+- Maximum Product of Three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
