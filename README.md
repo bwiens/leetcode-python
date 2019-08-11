@@ -129,6 +129,7 @@ Easy:
 - Confusing Number (https://leetcode.com/problems/confusing-number)
 - Delete Columns to Make Sorted (https://leetcode.com/problems/delete-columns-to-make-sorted)
 - Maximum Product of Three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- Add to Array Form (https://leetcode.com/problems/add-to-array-form-of-integer/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
