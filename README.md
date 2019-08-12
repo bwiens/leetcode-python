@@ -130,6 +130,7 @@ Easy:
 - Delete Columns to Make Sorted (https://leetcode.com/problems/delete-columns-to-make-sorted)
 - Maximum Product of Three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - Add to Array Form (https://leetcode.com/problems/add-to-array-form-of-integer/) 
+- Find Smallest Letter Greater Than Target (https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
