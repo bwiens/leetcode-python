@@ -131,6 +131,7 @@ Easy:
 - Maximum Product of Three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - Add to Array Form (https://leetcode.com/problems/add-to-array-form-of-integer/) 
 - Find Smallest Letter Greater Than Target (https://leetcode.com/problems/find-smallest-letter-greater-than-target)
+- Add Digits (https://leetcode.com/problems/add-digits/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
