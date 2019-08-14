@@ -133,6 +133,7 @@ Easy:
 - Find Smallest Letter Greater Than Target (https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 - Add Digits (https://leetcode.com/problems/add-digits/)
 - Check if a Number is Majority Element in a Sorted Array (https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) 
+- Search in a Binary Search Tree (https://leetcode.com/problems/search-in-a-binary-search-tree/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
