@@ -132,6 +132,7 @@ Easy:
 - Add to Array Form (https://leetcode.com/problems/add-to-array-form-of-integer/) 
 - Find Smallest Letter Greater Than Target (https://leetcode.com/problems/find-smallest-letter-greater-than-target)
 - Add Digits (https://leetcode.com/problems/add-digits/)
+- Check if a Number is Majority Element in a Sorted Array (https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
