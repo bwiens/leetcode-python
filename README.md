@@ -187,6 +187,7 @@ Medium:
 - Missing Element in Sorted Array (https://leetcode.com/problems/missing-element-in-sorted-array/)
 - Design Circular Queue (https://leetcode.com/problems/design-circular-queue/)
 - Path Sum II (https://leetcode.com/problems/path-sum-ii/) 
+- Symmetric Tree (https://leetcode.com/problems/symmetric-tree/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
