@@ -135,6 +135,7 @@ Easy:
 - Check if a Number is Majority Element in a Sorted Array (https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) 
 - Search in a Binary Search Tree (https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - Shortest Distance to a Character (https://leetcode.com/problems/shortest-distance-to-a-character/)
+- Vending Machine with Change Code (Return Change) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
