@@ -138,6 +138,7 @@ Easy:
 - Vending Machine with Change Code (Return Change) 
 - Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - Univalued Binary Tree (https://leetcode.com/problems/univalued-binary-tree/) 
+- Maximum Depth of N-Ary Tree (https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
