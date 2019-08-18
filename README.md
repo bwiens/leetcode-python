@@ -137,6 +137,7 @@ Easy:
 - Shortest Distance to a Character (https://leetcode.com/problems/shortest-distance-to-a-character/)
 - Vending Machine with Change Code (Return Change) 
 - Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree)
+- Univalued Binary Tree (https://leetcode.com/problems/univalued-binary-tree/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
