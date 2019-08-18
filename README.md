@@ -139,6 +139,7 @@ Easy:
 - Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - Univalued Binary Tree (https://leetcode.com/problems/univalued-binary-tree/) 
 - Maximum Depth of N-Ary Tree (https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+- N-Ary Tree Level Order Traversal (N-Ary Tree Level Order Traversal (https://leetcode.com/problems/n-ary-tree-level-order-traversal/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
