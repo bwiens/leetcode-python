@@ -140,6 +140,7 @@ Easy:
 - Univalued Binary Tree (https://leetcode.com/problems/univalued-binary-tree/) 
 - Maximum Depth of N-Ary Tree (https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 - N-Ary Tree Level Order Traversal (N-Ary Tree Level Order Traversal (https://leetcode.com/problems/n-ary-tree-level-order-traversal/) 
+- Sum of Root to Leaf Binary Numbers (https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
@@ -151,6 +152,7 @@ Medium:
 - Bulls and Cows (https://leetcode.com/problems/bulls-and-cows/)
 - Reverse Words in a String (https://leetcode.com/problems/reverse-words-in-a-string/)
 - Number of Islands (https://leetcode.com/problems/number-of-islands/)
+- Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 - Kth Largest Element in an Array (https://leetcode.com/problems/kth-largest-element-in-an-array/)
