@@ -195,6 +195,7 @@ Medium:
 - Design Circular Queue (https://leetcode.com/problems/design-circular-queue/)
 - Path Sum II (https://leetcode.com/problems/path-sum-ii/) 
 - Symmetric Tree (https://leetcode.com/problems/symmetric-tree/) 
+- Find Largest Value in each Tree Row (https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
