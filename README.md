@@ -142,6 +142,7 @@ Easy:
 - N-Ary Tree Level Order Traversal (N-Ary Tree Level Order Traversal (https://leetcode.com/problems/n-ary-tree-level-order-traversal/) 
 - Sum of Root to Leaf Binary Numbers (https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) 
 - Minimum Depth of Binary Tree (https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- N-th Tribonacci Number (https://leetcode.com/problems/n-th-tribonacci-number/ 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
