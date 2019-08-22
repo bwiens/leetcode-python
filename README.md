@@ -144,6 +144,7 @@ Easy:
 - Minimum Depth of Binary Tree (https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - N-th Tribonacci Number (https://leetcode.com/problems/n-th-tribonacci-number/ 
 - Two Sum Less Than K (https://leetcode.com/problems/two-sum-less-than-k/)
+- Minimum Absolute Difference in BST (https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
