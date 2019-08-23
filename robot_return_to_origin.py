@@ -4,30 +4,24 @@
 #https://leetcode.com/problems/robot-return-to-origin/
 #Leetcode Accepted
 
-input = "UDLR"
+input = "LL"
 
 class Solution:
-    def judgeCircle(self, move):
-        """
-        :param move: str
-        :return: bool
-        """
-        u, d, l, r = 0, 0, 0, 0
-        if len(move) % 2 != 0:
+    def judgeCircle(self, moves: str) -> bool:
+        if len(moves) % 2 != 0:
             return False
-        for i in move:
-            if i == "U":
-                u+=1
-            if i == "D":
-                d += 1
-            if i == "L":
-                l += 1
-            if i == "R":
-                r += 1
-        if u == d and l == r:
+        x,y = 0, 0
+        for move in moves:
+            if move == 'U':
+                y += 1
+            if move == 'D':
+                y -= 1
+            if move == 'L':
+                x -= 1
+            if move == 'R':
+                x += 1
+        if x == 0 and y == 0:
             return True
-        else:
-            return False
-
+        return False
 
 print(Solution().judgeCircle(input))
