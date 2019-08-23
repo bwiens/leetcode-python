@@ -146,6 +146,7 @@ Easy:
 - Two Sum Less Than K (https://leetcode.com/problems/two-sum-less-than-k/)
 - Minimum Absolute Difference in BST (https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - Logger Rate Limiter (https://leetcode.com/problems/logger-rate-limiter/))
+- Strobogrammatic Number (https://leetcode.com/problems/strobogrammatic-number/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
