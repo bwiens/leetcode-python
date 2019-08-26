@@ -151,6 +151,7 @@ Easy:
 - Positions of Large Groups (Positions of Large Groups (https://leetcode.com/problems/positions-of-large-groups/))
 - Find Words that can be Formed by Characters (Find Words that can be Formed by Characters (https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)) 
 - Number of Recent Calls (Number of Recent Calls (https://leetcode.com/problems/number-of-recent-calls))
+- Nested List Weight (https://leetcode.com/problems/nested-list-weight-sum) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
