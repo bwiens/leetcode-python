@@ -153,6 +153,7 @@ Easy:
 - Number of Recent Calls (Number of Recent Calls (https://leetcode.com/problems/number-of-recent-calls))
 - Nested List Weight (https://leetcode.com/problems/nested-list-weight-sum) 
 - Relative Sort Array (https://leetcode.com/problems/relative-sort-array/) 
+- Sort Array by Parity II (https://leetcode.com/problems/sort-array-by-parity-ii/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
