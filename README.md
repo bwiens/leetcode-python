@@ -211,6 +211,7 @@ Medium:
 - Maximum Level Sum of a Binary Tree (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) 
 - Minimum Cost to Connect Sticks (https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
 - Single Number II (https://leetcode.com/problems/single-number-ii)
+- Single Number III (https://leetcode.com/problems/single-number-iii/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
