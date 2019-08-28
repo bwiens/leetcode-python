@@ -156,6 +156,7 @@ Easy:
 - Sort Array by Parity II (https://leetcode.com/problems/sort-array-by-parity-ii/) 
 - Longest Continuous Increasing Subsequence (https://leetcode.com/problems/longest-continuous-increasing-subsequence)
 - Rotated Digits (https://leetcode.com/problems/rotated-digits)
+- Available Captures for Rook (https://leetcode.com/problems/available-captures-for-rook/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
