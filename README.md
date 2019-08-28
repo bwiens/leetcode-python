@@ -216,6 +216,7 @@ Medium:
 - Minimum Cost to Connect Sticks (https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
 - Single Number II (https://leetcode.com/problems/single-number-ii)
 - Single Number III (https://leetcode.com/problems/single-number-iii/) 
+- Binary Search Tree to Greater Sum Tree (Binary Search Tree to Greater Sum Tree (https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
