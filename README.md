@@ -158,6 +158,7 @@ Easy:
 - Rotated Digits (https://leetcode.com/problems/rotated-digits)
 - Available Captures for Rook (https://leetcode.com/problems/available-captures-for-rook/) 
 - Compare Strings by Frequency of the Smallest Character (https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)
+- Counting Bits (Counting Bits (https://leetcode.com/problems/counting-bits) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
