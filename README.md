@@ -159,6 +159,7 @@ Easy:
 - Available Captures for Rook (https://leetcode.com/problems/available-captures-for-rook/) 
 - Compare Strings by Frequency of the Smallest Character (https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)
 - Counting Bits (Counting Bits (https://leetcode.com/problems/counting-bits) 
+- Matrix Cells in Distance Order (https://leetcode.com/problems/matrix-cells-in-distance-order) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
