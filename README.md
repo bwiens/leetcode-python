@@ -162,6 +162,7 @@ Easy:
 - Matrix Cells in Distance Order (https://leetcode.com/problems/matrix-cells-in-distance-order) 
 - Remove All Adjacent Duplicates in String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - Shortest Word Distance (https://leetcode.com/problems/shortest-word-distance/)
+- Maximum Swap (https://leetcode.com/problems/maximum-swap/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
