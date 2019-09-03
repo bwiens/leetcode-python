@@ -160,7 +160,8 @@ Easy:
 - Compare Strings by Frequency of the Smallest Character (https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)
 - Counting Bits (Counting Bits (https://leetcode.com/problems/counting-bits) 
 - Matrix Cells in Distance Order (https://leetcode.com/problems/matrix-cells-in-distance-order) 
-- Remove All Adjacent Duplicates in String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) 
+- Remove All Adjacent Duplicates in String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- Shortest Word Distance (https://leetcode.com/problems/shortest-word-distance/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
