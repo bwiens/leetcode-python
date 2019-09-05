@@ -163,6 +163,7 @@ Easy:
 - Remove All Adjacent Duplicates in String (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - Shortest Word Distance (https://leetcode.com/problems/shortest-word-distance/)
 - Maximum Swap (https://leetcode.com/problems/maximum-swap/)
+- Pairs of Songs With Total Durations Divisible by 60 (https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
