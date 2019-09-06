@@ -226,7 +226,7 @@ Medium:
 - Binary Search Tree to Greater Sum Tree (Binary Search Tree to Greater Sum Tree (https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) 
 - Find Bottom Left Tree Value (https://leetcode.com/problems/find-bottom-left-tree-value/) 
 - Reorganize String (https://leetcode.com/problems/reorganize-string/) 
-
+- Candy Crush (https://leetcode.com/problems/candy-crush)
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
