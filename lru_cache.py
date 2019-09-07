@@ -28,6 +28,7 @@ class LRUCache:
             del self.odict[key]
             self.odict[key] = value
         elif len(self.odict) >= self.capacity:
+	    #this is the key to pop the item that was least recently used (!)
             self.odict.popitem(last=False)
             self.odict[key] = value
         else:
