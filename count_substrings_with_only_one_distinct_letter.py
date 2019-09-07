@@ -6,16 +6,13 @@ S = "aaaba"
 
 class Solution:
     def countLetters(self, S):
-        count = 0
-        i = 0
-        while i <= len(S) - 1:
-            count += 1
-            c = 1
-            #
-            while i + c <= len(S) -1 and S[i] == S[i + c]:
-                count += 1
-                c += 1
-            i += 1
-        return count
-
+        result, current = 1, 1
+        for index, char in enumerate(S[1:],1):
+            if char == S[index-1]:
+                current += 1
+            else:
+                current = 1
+            result += current
+        return result
+            
 print(Solution().countLetters(S))
