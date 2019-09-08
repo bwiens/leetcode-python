@@ -229,6 +229,8 @@ Medium:
 - Find Bottom Left Tree Value (https://leetcode.com/problems/find-bottom-left-tree-value/) 
 - Reorganize String (https://leetcode.com/problems/reorganize-string/) 
 - Candy Crush (https://leetcode.com/problems/candy-crush)
+- Before And After Puzzle (https://leetcode.com/problems/before-and-after-puzzle/)
+
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
