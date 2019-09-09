@@ -231,6 +231,7 @@ Medium:
 - Reorganize String (https://leetcode.com/problems/reorganize-string/) 
 - Candy Crush (https://leetcode.com/problems/candy-crush)
 - Before And After Puzzle (https://leetcode.com/problems/before-and-after-puzzle/)
+- All Paths From Source to Target (https://leetcode.com/problems/all-paths-from-source-to-target/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
