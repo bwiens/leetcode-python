@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Benjamin Wiens
-# All Paths From Source to Target (https://leetcode.com/problems/all-paths-from-source-to-target/)
+# All Paths From Source to Target (https://leetcode.com/problems/all-paths-from-source-to-target/) DFS
 
 input = [[1,2], [3], [3], []] 
 
