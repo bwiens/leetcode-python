@@ -235,6 +235,7 @@ Medium:
 - Kill Process (https://leetcode.com/problems/kill-process/) 
 - Majority Element II (https://leetcode.com/problems/majority-element-ii/)
 - Populating Next Right Pointers in Each Node (https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) 
+- Populating Next Right Pointers in Each Node II (https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
