@@ -17,11 +17,21 @@ class Solution(object):
             if i not in countchars:
                 countchars[i] = 1
             else:
-                value = countchars.get(i)
-                countchars[i] = value +1
+                countchars[i] += 1
         for index, i in enumerate(s):
             if countchars.get(i) == 1:
                 return index
         return -1
 
 print(Solution().firstUniqChar(input))
+'''
+super fast version:
+from collections import Counter
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        hmap = Counter(s)
+        for key, value in hmap.items():
+            if value == 1:
+                return s.find(key)
+        return -1
+'''
