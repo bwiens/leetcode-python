@@ -233,6 +233,7 @@ Medium:
 - Before And After Puzzle (https://leetcode.com/problems/before-and-after-puzzle/)
 - All Paths From Source to Target (https://leetcode.com/problems/all-paths-from-source-to-target/) 
 - Kill Process (https://leetcode.com/problems/kill-process/) 
+- Majority Element II (https://leetcode.com/problems/majority-element-ii/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
