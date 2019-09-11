@@ -234,6 +234,7 @@ Medium:
 - All Paths From Source to Target (https://leetcode.com/problems/all-paths-from-source-to-target/) 
 - Kill Process (https://leetcode.com/problems/kill-process/) 
 - Majority Element II (https://leetcode.com/problems/majority-element-ii/)
+- Populating Next Right Pointers in Each Node (https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
