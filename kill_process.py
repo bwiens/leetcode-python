@@ -19,9 +19,6 @@ class Solution:
             to_kill = queue.popleft()
             result.append(to_kill)
             children = hmap.get(to_kill, [])
-            if children:
-                for i in children:
-                    queue.append(i)
+            queue.extend(children)
         return result
-
 print(Solution().killProcess(pid,ppid,kill))
