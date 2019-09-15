@@ -167,6 +167,7 @@ Easy:
 - Count Substrings With Only One Distinct Letter (https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/)
 - Two City Scheduling (https://leetcode.com/problems/two-city-scheduling)
 - Closest Binary Search Tree Value (Closest Binary Search Tree Value (https://leetcode.com/problems/closest-binary-search-tree-value/)) 
+- Maximum Number of Balloons (https://leetcode.com/problems/maximum-number-of-balloons/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
