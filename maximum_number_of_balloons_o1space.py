@@ -15,5 +15,5 @@ class Solution:
             else:
                 minimum = min(minimum, text.count(value))
         return minimum
- 
+            
 print(Solution().maxNumberOfBalloons(balloons))
