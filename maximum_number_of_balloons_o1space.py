@@ -8,12 +8,12 @@ import sys
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
         minimum = sys.maxsize 
-        hmap = {1: 'b', 2: 'a', 3: 'l', 4: 'o', 5: 'n'}
-        for key, value in hmap.items():
-            if value == 'l' or value == 'o':
-                minimum = min(minimum, text.count(value)//2)
+        letters = ['b','a','l','o','n']
+        for letter in letters:
+            if letter == 'l' or letter == 'o':
+                minimum = min(minimum, text.count(letter)//2)
             else:
-                minimum = min(minimum, text.count(value))
+                minimum = min(minimum, text.count(letter))
         return minimum
             
 print(Solution().maxNumberOfBalloons(balloons))
