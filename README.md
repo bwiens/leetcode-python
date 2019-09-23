@@ -172,6 +172,7 @@ Easy:
 - Distance Between Bus Stops (https://leetcode.com/problems/distance-between-bus-stops/)
 - Uncommon Words from Two Sentences (https://leetcode.com/problems/uncommon-words-from-two-sentences/) 
 - How Many Apples Can You Put Into the Basket (https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/)
+- Minimum Absolute Difference (https://leetcode.com/problems/minimum-absolute-difference/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
