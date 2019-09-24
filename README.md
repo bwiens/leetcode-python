@@ -246,6 +246,7 @@ Medium:
 - Campus Bikes (https://leetcode.com/problems/campus-bikes/)
 - Car Pooling (https://leetcode.com/problems/car-pooling/)
 - Find Smallest Common Element in All Rows (https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) 
+- Teemo Attacking (https://leetcode.com/problems/teemo-attacking/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
