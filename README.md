@@ -249,6 +249,7 @@ Medium:
 - Find Smallest Common Element in All Rows (https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) 
 - Teemo Attacking (https://leetcode.com/problems/teemo-attacking/)
 - Reverse Substrings Between Each Pair of Parantheses (https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+- Remove All Adjacent Duplicates in String II (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
