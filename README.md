@@ -175,6 +175,7 @@ Easy:
 - Minimum Absolute Difference (https://leetcode.com/problems/minimum-absolute-difference/)
 - Can Place Flowers (https://leetcode.com/problems/can-place-flowers/)
 - Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/) 
+- Number of Lines to Write String (https://leetcode.com/problems/number-of-lines-to-write-string/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
