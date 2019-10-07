@@ -177,6 +177,7 @@ Easy:
 - Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/) 
 - Number of Lines to Write String (https://leetcode.com/problems/number-of-lines-to-write-string/) 
 - Intersection of Three Sorted Arrays (https://leetcode.com/problems/intersection-of-three-sorted-arrays/)
+- Play With Chips (https://leetcode.com/problems/play-with-chips/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
@@ -255,7 +256,6 @@ Medium:
 - Remove All Adjacent Duplicates in String II (https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - Time Based Key Value Store (https://leetcode.com/problems/time-based-key-value-store/)
 - Design Hit Counter (https://leetcode.com/problems/design-hit-counter/)
-- Play With Chips (https://leetcode.com/problems/play-with-chips/)
 - Two Sum BSTs (https://leetcode.com/problems/two-sum-bsts/)
 
 Hard:
