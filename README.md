@@ -256,6 +256,7 @@ Medium:
 - Time Based Key Value Store (https://leetcode.com/problems/time-based-key-value-store/)
 - Design Hit Counter (https://leetcode.com/problems/design-hit-counter/)
 - Play With Chips (https://leetcode.com/problems/play-with-chips/)
+- Two Sum BSTs (https://leetcode.com/problems/two-sum-bsts/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
