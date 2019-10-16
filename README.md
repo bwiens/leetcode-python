@@ -178,6 +178,7 @@ Easy:
 - Number of Lines to Write String (https://leetcode.com/problems/number-of-lines-to-write-string/) 
 - Intersection of Three Sorted Arrays (https://leetcode.com/problems/intersection-of-three-sorted-arrays/)
 - Play With Chips (https://leetcode.com/problems/play-with-chips/)
+- Split a String in Balanced Strings (https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
