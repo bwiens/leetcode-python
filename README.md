@@ -259,6 +259,7 @@ Medium:
 - Design Hit Counter (https://leetcode.com/problems/design-hit-counter/)
 - Two Sum BSTs (https://leetcode.com/problems/two-sum-bsts/)
 - Insert Into a Binary Search Tree (https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- Find All Duplicates in an Array (https://leetcode.com/problems/find-all-duplicates-in-an-array/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
