@@ -271,3 +271,4 @@ Hard:
 - Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/)
 - Longest Substring with At Most Two Distinct Characters (https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 - Trapping Rain Water (https://leetcode.com/problems/trapping-rain-water/)
+- Divide Chocolate (https://leetcode.com/problems/divide-chocolate/)
