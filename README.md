@@ -261,6 +261,7 @@ Medium:
 - Two Sum BSTs (https://leetcode.com/problems/two-sum-bsts/)
 - Insert Into a Binary Search Tree (https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 - Find All Duplicates in an Array (https://leetcode.com/problems/find-all-duplicates-in-an-array/) 
+- Find K-Length Substrings With No Repeated Characters (https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
