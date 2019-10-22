@@ -6,6 +6,8 @@ S = "havefunonleetcode"
 K = 5
 class Solution:
     def numKLenSubstrNoRepeats(self, S, K):
+        if K > 26:
+            return 0       
         result = 0
         for index, char in enumerate(S[:len(S)-K+1]):
             if len(set(S[index:index+K])) == K:
