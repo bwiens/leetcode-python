@@ -181,6 +181,7 @@ Easy:
 - Split a String in Balanced Strings (https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - Missing Number in Arithmetic Progression (https://leetcode.com/problems/missing-number-in-arithmetic-progression/)
 - Sentence Similarity (https://leetcode.com/problems/sentence-similarity/)
+- Find Positive Integer Solution For a Given Equation (https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) 
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
