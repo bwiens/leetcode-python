@@ -266,6 +266,7 @@ Medium:
 - Find K-Length Substrings With No Repeated Characters (https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)
 - Check if it is a Straight Line (https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 - Maximum Length of a String With Unique Characters (https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+- Web Crawler (https://leetcode.com/problems/web-crawler/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
