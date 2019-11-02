@@ -270,6 +270,7 @@ Medium:
 - Maximum Length of a String With Unique Characters (https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 - Web Crawler (https://leetcode.com/problems/web-crawler/)
 - Queens That Can Attack the King (https://leetcode.com/problems/queens-that-can-attack-the-king/)
+- Design a Leaderboard (https://leetcode.com/problems/design-a-leaderboard/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
