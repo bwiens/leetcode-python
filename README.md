@@ -183,6 +183,7 @@ Easy:
 - Sentence Similarity (https://leetcode.com/problems/sentence-similarity/)
 - Find Positive Integer Solution For a Given Equation (https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) 
 - Partition Labels (https://leetcode.com/problems/partition-labels/)
+- Array Transformation (https://leetcode.com/problems/array-transformation/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
