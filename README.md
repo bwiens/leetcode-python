@@ -271,6 +271,7 @@ Medium:
 - Web Crawler (https://leetcode.com/problems/web-crawler/)
 - Queens That Can Attack the King (https://leetcode.com/problems/queens-that-can-attack-the-king/)
 - Design a Leaderboard (https://leetcode.com/problems/design-a-leaderboard/)
+- Increasing Triplet Subsequence (https://leetcode.com/problems/increasing-triplet-subsequence/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
