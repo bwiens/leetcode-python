@@ -8,10 +8,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for index, i in enumerate(nums):
-            if i == 0:
-                nums.remove(nums[index])
-                nums.append(i)
-
+        l, position = 0, 0
+        while l < len(nums):
+            if nums[l] == 0:
+                position += 1
+            else:
+                if position > 0:
+                    #swap
+                    nums[l], nums[l-position] = nums[l-position], nums[l]
+                    #NO position -= 1
+            l += 1
         return nums
 print(Solution().moveZeroes(input))
