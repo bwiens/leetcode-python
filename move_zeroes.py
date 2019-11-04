@@ -8,6 +8,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        # position determines how many spaces to the left of current index, a non-0 should be
         l, position = 0, 0
         while l < len(nums):
             if nums[l] == 0:
