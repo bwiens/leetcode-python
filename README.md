@@ -274,6 +274,7 @@ Medium:
 - Queens That Can Attack the King (https://leetcode.com/problems/queens-that-can-attack-the-king/)
 - Design a Leaderboard (https://leetcode.com/problems/design-a-leaderboard/)
 - Increasing Triplet Subsequence (https://leetcode.com/problems/increasing-triplet-subsequence/)
+- Remove nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
