@@ -184,6 +184,7 @@ Easy:
 - Find Positive Integer Solution For a Given Equation (https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) 
 - Partition Labels (https://leetcode.com/problems/partition-labels/)
 - Array Transformation (https://leetcode.com/problems/array-transformation/)
+- Subtree of Another Tree (https://leetcode.com/problems/subtree-of-another-tree/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
