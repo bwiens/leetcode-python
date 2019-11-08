@@ -7,24 +7,25 @@ input = ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","te
 
 class Solution:
     def numUniqueEmails(self, emails):
-        atflag, plusflag = False, False
-        mail = ''
-        result = []
+        """
+        :type emails: List[str]
+        :rtype: int
+        """
+        eSet = set()
+        at = True
         for email in emails:
-            for i in email:
-                if atflag == False:
-                    if i == '@':
-                        mail += '@'
-                        atflag = True
-                    elif i == "+":
-                        plusflag = True
-                    elif i != "." and plusflag == False:
-                            mail += i
+            split = email.split('@')
+            first = ''
+            for e in split[0]:
+                if e == '.':
+                    continue
+                elif e == '+':
+                    break
                 else:
-                    mail += i
-            result.append(mail)
-            mail = ''
-            atflag, plusflag = False, False
-        return len(set(result))
+                    first += e
+            result = first + '@' + split[1]
+            if result not in eSet:
+                eSet.add(result)
+        return len(eSet)
 
 print(Solution().numUniqueEmails(input))
