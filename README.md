@@ -275,6 +275,7 @@ Medium:
 - Increasing Triplet Subsequence (https://leetcode.com/problems/increasing-triplet-subsequence/)
 - Remove nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list) 
+- Word Search (https://leetcode.com/problems/word-search)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
