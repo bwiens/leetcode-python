@@ -276,6 +276,7 @@ Medium:
 - Remove nth Node From End of List (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list) 
 - Word Search (https://leetcode.com/problems/word-search)
+- Count Complete Tree Nodes (https://leetcode.com/problems/count-complete-tree-nodes)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
