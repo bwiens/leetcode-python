@@ -279,8 +279,9 @@ Medium:
 - Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list) 
 - Word Search (https://leetcode.com/problems/word-search)
 - Count Complete Tree Nodes (https://leetcode.com/problems/count-complete-tree-nodes)
-- https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+- Minimum Domino Rotations for Equal Row (https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 - Lowest Common Ancestor of a Binary Search Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- Add Two Numbers (https://leetcode.com/problems/add-two-numbers/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
