@@ -185,7 +185,9 @@ Easy:
 - Partition Labels (https://leetcode.com/problems/partition-labels/)
 - Array Transformation (https://leetcode.com/problems/array-transformation/)
 - Subtree of Another Tree (https://leetcode.com/problems/subtree-of-another-tree/)
-- Linked List Components (https://leetcode.com/problems/linked-list-components/) 
+- Linked List Components (https://leetcode.com/problems/linked-list-components/)
+- Binary Tree Paths (https://leetcode.com/problems/binary-tree-paths/)
+
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (see wikipedia)
