@@ -285,6 +285,7 @@ Medium:
 - Lowest Common Ancestor of a Binary Search Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - Add Two Numbers (https://leetcode.com/problems/add-two-numbers/)
 - Number of Closed Islands (https://leetcode.com/problems/number-of-closed-islands/) 
+- Sum Root to Leaf Numbers (https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
