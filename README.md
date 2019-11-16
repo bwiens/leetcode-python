@@ -188,6 +188,7 @@ Easy:
 - Linked List Components (https://leetcode.com/problems/linked-list-components/)
 - Binary Tree Paths (https://leetcode.com/problems/binary-tree-paths/)
 - Cells With Odd Values in a Matrix (https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)
+- Encode Number (https://leetcode.com/problems/encode-number/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
