@@ -14,20 +14,9 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        c = Counter()
+        hmap = Counter(nums)
         result = []
-        for i in nums:
-            if i not in c:
-                c[i] = 1
-            else: 
-                value = c.get(i)
-                c[i] = value + 1
-        #print(c)
-        for index, number in enumerate(c.most_common()):
-            if index < k:
-                result.append(number[0])
-            else:
-                break
+        for key, value in hmap.most_common(k):
+            result.append(key)
         return result
-
 print(Solution().topKFrequent(numbers,k))
