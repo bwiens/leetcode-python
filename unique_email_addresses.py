@@ -11,21 +11,17 @@ class Solution:
         :type emails: List[str]
         :rtype: int
         """
-        eSet = set()
-        at = True
+        result = set()
         for email in emails:
-            split = email.split('@')
-            first = ''
-            for e in split[0]:
-                if e == '.':
-                    continue
-                elif e == '+':
+            first, second = email.split('@')
+            tmp = ''
+            for char in first:
+                if char == "+":
                     break
+                elif char == ".":
+                    continue
                 else:
-                    first += e
-            result = first + '@' + split[1]
-            if result not in eSet:
-                eSet.add(result)
-        return len(eSet)
-
+                    tmp = tmp + char
+            result.add(tmp + '@' + second)
+        return len(result)
 print(Solution().numUniqueEmails(input))
