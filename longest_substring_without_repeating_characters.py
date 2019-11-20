@@ -11,23 +11,19 @@ class Solution:
         :type s: str
         :rtype: int
         """
-        repeats = []
+        repeats = set()
         maximum = 0
-        c = 0
-        for index, i in enumerate(s):
-            while c + index <= len(s) -1:
-                # duplicate detected
-                if s[index + c] in repeats:
-                    if len(repeats) > maximum:
-                        maximum = len(repeats)
-                    repeats = []
-                    c = 0
-                    break
-                else:
-                    repeats.append(s[index + c])
-                    c += 1
-                    if len(repeats) > maximum:
-                        maximum = len(repeats)
+        left, right = 0, 0
+        while left < len(s) and right < len(s):
+            # safely expand to the right if char not in set
+            if s[right] not in repeats:
+                repeats.add(s[right])
+                right += 1
+                maximum = max(maximum, right - left)
+            else:
+            # if char is in set, we remove and move left pointer until right is clear
+                repeats.remove(s[left])
+                left += 1
         return maximum
 
 print(Solution().lengthOfLongestSubstring(input))
