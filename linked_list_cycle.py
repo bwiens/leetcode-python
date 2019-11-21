@@ -14,14 +14,11 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        hmap = {}
-        if not head or not head.next:
-            return False
+        hset = set()
         while head:
-            if head in hmap:
+            if head in hset:
                 return True
             else:
-                hmap[head] = None
+                hset.add(head)
             head = head.next
-            print(hmap)
         return False
