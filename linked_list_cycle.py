@@ -22,3 +22,27 @@ class Solution(object):
                 hset.add(head)
             head = head.next
         return False
+
+constant space:
+
+class Solution(object):
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        if not head or not head.next:
+            return None
+        slow = head
+        fast = head.next
+        while slow and fast:
+            if slow == fast:
+                return slow
+            else:
+                slow = slow.next
+                if fast.next:
+                    fast = fast.next.next
+                else:
+                    return None
+        return None
+            
