@@ -5,34 +5,23 @@
 input = [[0,0,1],[1,1,0]]
 
 class Solution:
-
+    def fill(self, image, rid, cid, newColor, oldColor):
+        if rid < 0 or cid < 0 or rid > len(image) -1 or cid > len(image[0]) -1 or image[rid][cid] != oldColor:
+            return
+        image[rid][cid] = newColor
+        #down
+        self.fill(image, rid+1, cid, newColor, oldColor)
+        #right
+        self.fill(image, rid, cid+1, newColor, oldColor)
+        #up
+        self.fill(image, rid-1, cid, newColor, oldColor)
+        #left
+        self.fill(image, rid, cid-1, newColor, oldColor)
     def floodFill(self, image, sr, sc, newColor):
-        """
-        :type image: List[List[int]]
-        :type sr: int
-        :type sc: int
-        :type newColor: int
-        :rtype: List[List[int]]
-        """
-        def fill(row, column):
-            if image[row][column] == color:
-                image[row][column] = newColor
-                # up
-                if row - 1 >= 0:
-                    fill(row - 1, column)
-                # down
-                if row + 1 < len(image):
-                    fill(row + 1, column)
-                # left
-                if column - 1 >= 0:
-                    fill(row, column - 1)
-                # right
-                if column + 1 < len(image[0]):
-                    fill(row, column + 1)
-        color = image[sr][sc]
-        if color == newColor:
+        if image[sr][sc] == newColor:
             return image
-        fill(sr, sc)
+        oldColor = image[sr][sc]
+        self.fill(image, sr, sc, newColor, oldColor)
         return image
 
 print(Solution().floodFill(input, 1, 1, 2))
