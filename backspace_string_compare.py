@@ -7,24 +7,18 @@ s = "ab##"
 t = "c#d#"
 class Solution:
     def backspaceCompare(self, S: str, T: str) -> bool:
-        c=0
-        sstack, tstack, result = [], [], []
-        for i in S:
-            if i != '#':
-                sstack.append(i)
+        s_stack, t_stack = [], []
+        for char in S:
+            if char == '#':
+                if s_stack:
+                    s_stack.pop()
             else:
-                #make sure stack is not empty
-                if sstack:
-                    sstack.pop()
-        for i in T:
-            if i != '#':
-                #make sure stack is not empty
-                tstack.append(i)
+                s_stack.append(char)
+        for char in T:
+            if char == '#':
+                if t_stack:
+                    t_stack.pop()
             else:
-                if tstack:
-                    tstack.pop()
-        if sstack == tstack:
-            return True
-        else:
-            return False
+                t_stack.append(char)
+        return s_stack == t_stack
 print(Solution().backspaceCompare(s,t))
