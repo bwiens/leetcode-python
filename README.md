@@ -290,6 +290,7 @@ Medium:
 - Search in a Sorted Array of Unknown Size (https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 - Linked List Cycle II (https://leetcode.com/problems/linked-list-cycle-ii/) 
 - Product of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)
+- Sentence Similarity II (https://leetcode.com/problems/sentence-similarity-ii) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
