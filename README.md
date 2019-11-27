@@ -291,6 +291,7 @@ Medium:
 - Linked List Cycle II (https://leetcode.com/problems/linked-list-cycle-ii/) 
 - Product of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)
 - Sentence Similarity II (https://leetcode.com/problems/sentence-similarity-ii) 
+- Shortest Way to Form String (https://leetcode.com/problems/shortest-way-to-form-string/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
