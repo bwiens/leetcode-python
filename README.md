@@ -292,6 +292,7 @@ Medium:
 - Product of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)
 - Sentence Similarity II (https://leetcode.com/problems/sentence-similarity-ii) 
 - Shortest Way to Form String (https://leetcode.com/problems/shortest-way-to-form-string/)
+- Path With Maximum Gold (https://leetcode.com/problems/path-with-maximum-gold/)
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
