@@ -293,6 +293,7 @@ Medium:
 - Sentence Similarity II (https://leetcode.com/problems/sentence-similarity-ii) 
 - Shortest Way to Form String (https://leetcode.com/problems/shortest-way-to-form-string/)
 - Path With Maximum Gold (https://leetcode.com/problems/path-with-maximum-gold/)
+- Deepest Leaves Sum (https://leetcode.com/problems/deepest-leaves-sum/) 
 
 Hard:
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
