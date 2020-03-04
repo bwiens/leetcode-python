@@ -191,6 +191,7 @@ Easy:
 - Encode Number (https://leetcode.com/problems/encode-number/)
 - Repeated String Match (https://leetcode.com/problems/repeated-string-match/)
 - Replace Elements with Greatest Element on Right Side (Replace Elements with Greatest Element on Right Side (https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)) 
+- Sort Integers by the Number of 1 Bits (https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
