@@ -193,6 +193,8 @@ Easy:
 - Replace Elements with Greatest Element on Right Side (Replace Elements with Greatest Element on Right Side (https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)) 
 - Sort Integers by the Number of 1 Bits (https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - Generate a String with Characters that Have Odd Counts (https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
+- Increasing Decreasing String (https://leetcode.com/problems/increasing-decreasing-string/)
+
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
