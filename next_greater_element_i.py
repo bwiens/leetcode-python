@@ -7,22 +7,17 @@ nums2 = [1,2,3,4]
 
 class Solution:
     def nextGreaterElement(self, nums1, nums2):
-        #create a hashmap with next greater index
+        dict = {}
         stack, result = [],[]
-        hmap = {}
         for index, number in enumerate(nums2):
-            #if empty or current is smaller
-            if not stack or number <= stack[-1]:
-                stack.append(number)
-            else:
-                while stack and number > stack[-1]:    
-                    hmap[stack.pop()] = number
-                stack.append(number)
-        #remaining elements that have no greater
-        while stack:
-            hmap[stack.pop()] = -1
+            while stack and stack[-1] < number:
+                dict[stack.pop()] = number
+            stack.append(number)
         for number in nums1:
-            result.append(hmap.get(number))
+            if number in dict:
+                result.append(dict.get(number))
+            else:
+                result.append(-1)
         return result
 
 print(Solution().nextGreaterElement(nums1,nums2))
