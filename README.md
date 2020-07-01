@@ -194,7 +194,7 @@ Easy:
 - Sort Integers by the Number of 1 Bits (https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - Generate a String with Characters that Have Odd Counts (https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
 - Increasing Decreasing String (https://leetcode.com/problems/increasing-decreasing-string/)
-
+- XOR Operation in an Array (https://leetcode.com/problems/xor-operation-in-an-array/)
 
 Medium:
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
