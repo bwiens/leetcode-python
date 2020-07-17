@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Number of Good Pairs (https://leetcode.com/problems/number-of-good-pairs/)
 - Invert Binary Tree (https://leetcode.com/problems/invert-binary-tree/)
 - Verifying an Alien Dictionary (https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - Convert a Number to Hexadecimal (https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
