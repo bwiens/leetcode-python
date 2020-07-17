@@ -304,6 +304,7 @@ Medium:
 - Deepest Leaves Sum (https://leetcode.com/problems/deepest-leaves-sum/) 
 
 Hard:
+- String Transforms Into Another String (https://leetcode.com/problems/string-transforms-into-another-string/)
 - Word Break II (https://leetcode.com/problems/word-break-ii/description/)
 - LRU Cache (https://leetcode.com/problems/lru-cache/)
 - Longest Substring with At Most K Distinct Characters (https://leetfree.com/problems/longest-substring-with-at-most-k-distinct-characters.html)
