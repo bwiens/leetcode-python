@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Convert a Number to Hexadecimal (https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
 - Two Sum (https://leetcode.com/problems/two-sum/)
 - Two Sum 2 (Same but runs in O(n))
 - Valid Palindrome (https://leetcode.com/problems/valid-palindrome/)
