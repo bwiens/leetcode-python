@@ -201,6 +201,7 @@ Easy:
 - XOR Operation in an Array (https://leetcode.com/problems/xor-operation-in-an-array/)
 
 Medium:
+- Binary Tree Zigzag Level Order Traversal (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 - Bubble Sort (see wikipedia)
 - Meeting Rooms II (https://leetfree.com/problems/meeting-rooms-ii.html)
