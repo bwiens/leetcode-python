@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Palindrome Permutation (https://leetcode.com/problems/palindrome-permutation/)
 - Number of Good Pairs (https://leetcode.com/problems/number-of-good-pairs/)
 - Invert Binary Tree (https://leetcode.com/problems/invert-binary-tree/)
 - Verifying an Alien Dictionary (https://leetcode.com/problems/verifying-an-alien-dictionary/)
