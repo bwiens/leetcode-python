@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Kids With the Greatest Number of Candies (https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - Palindrome Permutation (https://leetcode.com/problems/palindrome-permutation/)
 - Number of Good Pairs (https://leetcode.com/problems/number-of-good-pairs/)
 - Invert Binary Tree (https://leetcode.com/problems/invert-binary-tree/)
