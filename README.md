@@ -203,6 +203,7 @@ Easy:
 - XOR Operation in an Array (https://leetcode.com/problems/xor-operation-in-an-array/)
 
 Medium:
+- Peeking Iterator (https://leetcode.com/problems/peeking-iterator/)
 - Group Anagrams (https://leetcode.com/problems/group-anagrams/)
 - Meeting Scheduler (https://leetcode.com/problems/meeting-scheduler/)
 - Validate Stack Sequences (https://leetcode.com/problems/validate-stack-sequences/)
