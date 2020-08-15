@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Valid Palindrome II (https://leetcode.com/problems/valid-palindrome-ii/)
 - Kids With the Greatest Number of Candies (https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - Palindrome Permutation (https://leetcode.com/problems/palindrome-permutation/)
 - Number of Good Pairs (https://leetcode.com/problems/number-of-good-pairs/)
