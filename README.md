@@ -205,6 +205,7 @@ Easy:
 - XOR Operation in an Array (https://leetcode.com/problems/xor-operation-in-an-array/)
 
 Medium:
+- Strings Differ by One Character (https://leetcode.com/problems/strings-differ-by-one-character/)
 - Peeking Iterator (https://leetcode.com/problems/peeking-iterator/)
 - Group Anagrams (https://leetcode.com/problems/group-anagrams/)
 - Meeting Scheduler (https://leetcode.com/problems/meeting-scheduler/)
