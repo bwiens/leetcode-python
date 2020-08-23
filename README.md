@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Thousand Separator (https://leetcode.com/problems/thousand-separator)
 - Make the String Great (https://leetcode.com/problems/make-the-string-great/)
 - Valid Palindrome II (https://leetcode.com/problems/valid-palindrome-ii/)
 - Kids With the Greatest Number of Candies (https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
