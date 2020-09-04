@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Maximum Number of Coins (https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
 - Thousand Separator (https://leetcode.com/problems/thousand-separator)
 - Make the String Great (https://leetcode.com/problems/make-the-string-great/)
 - Valid Palindrome II (https://leetcode.com/problems/valid-palindrome-ii/)
