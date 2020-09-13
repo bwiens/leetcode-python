@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Add Binary (https://leetcode.com/problems/add-binary/)
 - Maximum Number of Coins (https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
 - Thousand Separator (https://leetcode.com/problems/thousand-separator)
 - Make the String Great (https://leetcode.com/problems/make-the-string-great/)
