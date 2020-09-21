@@ -18,6 +18,14 @@ class Solution:
                 return key
         return -1
 
-print(Solution().singleNumber(numbers))
+class Solution2:
+    def singleNumber(self, nums):
+        # The most crucial trick here is to recognize that if you XOR any same number together, you cancel it out (=0).
+        result = 0
+        for number in nums:
+            result ^= number
+        return result
 
+print(Solution().singleNumber(numbers))
+print(Solution2().singleNumber(numbers))
 #O(n) time and space
