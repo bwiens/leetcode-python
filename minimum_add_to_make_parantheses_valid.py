@@ -5,16 +5,17 @@
 brackets = "()))(("
 
 class Solution:
-    def minAddToMakeValid(self, S):
-        result, left = 0, 0
-        for bracket in S:
-            if bracket == '(':
-                left += 1
-            elif bracket == ')':
-                if left == 0:
-                    result += 1
+    def minAddToMakeValid(self, S: str) -> int:
+        stacksize = 0
+        miss_match = 0
+        for char in S:
+            if char == ')':
+                if stacksize > 0:
+                    stacksize -= 1
                 else:
-                    left -= 1
-        return left + result
+                    miss_match += 1
+            elif char == '(':
+                stacksize += 1
+        return stacksize + miss_match
 
 print(Solution().minAddToMakeValid(brackets))
