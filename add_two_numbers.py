@@ -8,23 +8,16 @@
 #         self.next = None
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        carry, sum = 0, 0
-        new = ListNode(0)
-        dummy = new
-        while l1 or l2:
-            sum = 0
+        dummy = cur = ListNode(0)
+        carry = 0
+        while carry or l1 or l2:
             if l1:
-                sum += l1.val
+                carry += l1.val
                 l1 = l1.next
             if l2:
-                sum += l2.val
+                carry += l2.val
                 l2 = l2.next
-            sum += carry
-            carry = sum // 10
-            new.val = sum % 10
-            if l1 or l2:
-                new.next = ListNode(None)
-                new = new.next
-        if carry:
-            new.next = ListNode(carry)
-        return dummy
+            cur.next = ListNode(carry%10)
+            cur = cur.next
+            carry //= 10
+        return dummy.next
