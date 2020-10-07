@@ -321,6 +321,7 @@ Medium:
 - Deepest Leaves Sum (https://leetcode.com/problems/deepest-leaves-sum/) 
 
 Hard:
+- Merge k Sorted Lists (https://leetcode.com/problems/merge-k-sorted-lists/)
 - Serialize and Deserialize Binary Tree (https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - Find Median from Data Stream (https://leetcode.com/problems/find-median-from-data-stream/)
 - String Transforms Into Another String (https://leetcode.com/problems/string-transforms-into-another-string/)
