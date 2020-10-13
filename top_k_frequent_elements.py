@@ -7,6 +7,7 @@ k = 2
 numbers = [4,1,-1,2,-1,2,3]
 
 from collections import Counter
+import heapq
 class Solution(object):
     def topKFrequent(self, nums, k):
         """
@@ -14,9 +15,15 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        hmap = Counter(nums)
-        result = []
-        for key, value in hmap.most_common(k):
-            result.append(key)
-        return result
+        counted = Counter(nums)
+        result, heap = [], []
+        for key, value in counted.items():
+            heap.append((-value, key))
+        heapq.heapify(heap)
+        while heap:
+            pair = heapq.heappop(heap)
+            result.append(pair[1])
+            if len(result) == k:
+                return result
+
 print(Solution().topKFrequent(numbers,k))
