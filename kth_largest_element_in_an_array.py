@@ -14,14 +14,6 @@ class Solution:
         :type k: int
         :rtype: int
         """
-import heapq
-class Solution:
-    def findKthLargest(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
         heap = []
         heapq.heapify(heap)
         for number in nums:
