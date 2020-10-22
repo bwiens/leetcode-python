@@ -4,25 +4,21 @@
 
 arr1 = [2,3,1,3,2,4,6,7,9,2,19]
 arr2 = [2,1,4,3,9,6]
-
+from collections import Counter
 class Solution:
     def relativeSortArray(self, arr1, arr2):
-        arr1.sort()
-        count, arr2_hmap, result = {}, {}, []
+        counted = Counter(arr1)
+        arr2set = set(arr2)
+        result, tail = [], []
         for number in arr2:
-            arr2_hmap[number] = None
-        for number in arr1:
-            if number in count:
-                count[number] += 1
-            else:
-                count[number] = 1
-        for number in arr2:
-            x = count.get(number)
-            for i in range(x):
+            for i in range(counted[number]):
                 result.append(number)
         for number in arr1:
-            if number not in arr2_hmap:
-                result.append(number)
+            if number not in arr2set:
+                tail.append(number)
+        tail.sort()
+        for number in tail:
+            result.append(number)
         return result
 
 print(Solution().relativeSortArray(arr1,arr2))
