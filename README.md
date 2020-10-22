@@ -1,6 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
+- Sort Colors (https://leetcode.com/problems/sort-colors/submissions/)
 - Add Strings (https://leetcode.com/problems/add-strings/)
 - Leftmost Column with at least a One (https://leetcode.com/problems/leftmost-column-with-at-least-a-one/submissions)
 - Add Binary (https://leetcode.com/problems/add-binary/)
