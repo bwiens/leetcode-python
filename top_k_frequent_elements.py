@@ -8,22 +8,18 @@ numbers = [4,1,-1,2,-1,2,3]
 
 from collections import Counter
 import heapq
-class Solution(object):
+class Solution:
     def topKFrequent(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
+        heap, result = [], []
         counted = Counter(nums)
-        result, heap = [], []
         for key, value in counted.items():
-            heap.append((-value, key))
-        heapq.heapify(heap)
-        while heap:
-            pair = heapq.heappop(heap)
-            result.append(pair[1])
-            if len(result) == k:
-                return result
-
+            if len(heap) < k:
+                heapq.heappush(heap, (value, key))
+            else: 
+                if heap[0][0] < value:
+                    heapq.heappop(heap)
+                    heapq.heappush(heap, (value, key))
+        for i in range(len(heap)):
+            result.append(heap[i][1])
+        return result
 print(Solution().topKFrequent(numbers,k))
