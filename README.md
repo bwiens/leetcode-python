@@ -213,6 +213,7 @@ Easy:
 - XOR Operation in an Array (https://leetcode.com/problems/xor-operation-in-an-array/)
 
 Medium:
+- Delete Nodes And Return Forest
 - Rank Teams by Votes (https://leetcode.com/problems/rank-teams-by-votes/)
 - Clone Graph (https://leetcode.com/problems/clone-graph/)
 - Next Permutation (https://leetcode.com/problems/next-permutation)
