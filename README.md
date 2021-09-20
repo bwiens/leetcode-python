@@ -225,7 +225,7 @@ Medium:
 - Validate Stack Sequences (https://leetcode.com/problems/validate-stack-sequences/)
 - Binary Tree Zigzag Level Order Traversal (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - Encode and Decode TinyURL (https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
-- Bubble Sort (see wikipedia)
+- Bubble Sort (see wikipedia: https://en.wikipedia.org/wiki/Bubble_sort)
 - Meeting Rooms II (https://leetfree.com/problems/meeting-rooms-ii.html)
 - Next Closest Time (https://leetfree.com/problems/next-closest-time.html)
 - Replace Words (https://leetcode.com/problems/replace-words/description/)
