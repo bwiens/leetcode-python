@@ -1,7 +1,7 @@
 # python problem-solving & implementations (mostly leetcode)
 
 Easy:
-- Min Cost Climbing Stairs(https://leetcode.com/problems/min-cost-climbing-stairs/)
+- Min Cost Climbing Stairs (https://leetcode.com/problems/min-cost-climbing-stairs/)
 - Lemonade Change (https://leetcode.com/problems/lemonade-change/)
 - Base 7 (https://leetcode.com/problems/base-7/)
 - Sort Colors (https://leetcode.com/problems/sort-colors/submissions/)
