@@ -1,4 +1,4 @@
-# python problem-solving & implementations (mostly leetcode)
+# python problem-solving using popular algorithms (mostly leetcode)
 
 Easy:
 - Min Cost Climbing Stairs (https://leetcode.com/problems/min-cost-climbing-stairs/)
