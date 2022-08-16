@@ -212,6 +212,7 @@ Easy:
 - Generate a String with Characters that Have Odd Counts (https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
 - Increasing Decreasing String (https://leetcode.com/problems/increasing-decreasing-string/)
 - XOR Operation in an Array (https://leetcode.com/problems/xor-operation-in-an-array/)
+- Types of Errors in Python (https://www.scaler.com/topics/types-of-errors-in-python/)
 
 Medium:
 - Delete Nodes And Return Forest
